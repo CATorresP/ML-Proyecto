@@ -1,0 +1,21 @@
+;# top;Name;Trading volume(24h);% Mkt Share;No. Markets;Type;Launched
+0;1;dYdX v4;$1,627,658,249;12.6063%;62;Orderbook;Oct 2023
+1;2;SynFutures v3;$1,485,912,030;11.4565%;14;;Jun 2021
+2;3;Uniswap v3 (Ethereum);$1,337,358,501;10.3627%;966;Swap;May 2021
+3;4;Jupiter;$893,646,141;6.9149%;1046;;Oct 2021
+4;5;Kine Protocol;$858,127,910;6.6496%;56;;Mar 2021
+5;6;dYdX;$584,698,341;4.1637%;37;Orderbook;Apr 2019
+6;7;Uniswap v3 (Arbitrum);$525,752,744;4.0739%;388;;--
+7;8;Vertex Protocol;$492,051,007;3.2195%;46;Orderbook;--
+8;9;Curve (Ethereum);$463,247,799;3.5895%;138;Swap;Jan 2020
+9;10;Raydium;$460,796,475;3.5705%;954;Swap;Feb 2021
+10;11;Orca;$416,330,630;3.226%;894;;Feb 2021
+11;12;PancakeSwap v3 (BSC);$380,988,234;2.9521%;855;;--
+12;13;Uniswap v3 (Base);$285,374,645;2.2113%;269;;--
+13;14;THORChain;$229,978,537;1.7791%;27;;Apr 2021
+14;15;Meteora VD;$191,618,266;1.4848%;582;;--
+15;16;Uniswap v2;$184,914,124;1.4328%;1629;Swap;Nov 2018
+16;17;PancakeSwap v2 (BSC);$180,805,709;1.401%;3287;Swap;--
+17;18;Apex Protocol;$173,770,120;1.3469%;23;;Jan 2022
+18;19;Equation V2;$164,181,771;1.2711%;45;;Oct 2023
+19;20;APX v2 (BSC);$161,353,634;1.1943%;24;;Aug 2023

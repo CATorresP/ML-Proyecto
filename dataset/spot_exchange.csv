@@ -1,0 +1,3449 @@
+exchange;type;token;ticker
+Binance TR;spot;Tether USDt;USDT
+Binance TR;spot;Contentos;COS
+Binance TR;spot;Pepe;PEPE
+Binance TR;spot;Bitcoin;BTC
+Binance TR;spot;Bonk;BONK
+Binance TR;spot;Renzo;REZ
+Binance TR;spot;Solana;SOL
+Binance TR;spot;FLOKI;FLOKI
+Binance TR;spot;Wormhole;W
+Binance TR;spot;BOOK OF MEME;BOME
+Binance TR;spot;Amp;AMP
+Binance TR;spot;Shiba Inu;SHIB
+Binance TR;spot;dogwifhat;WIF
+Binance TR;spot;Ethereum;ETH
+Binance TR;spot;SATS;1000SATS
+Binance TR;spot;Ethena;ENA
+Binance TR;spot;Avalanche;AVAX
+Binance TR;spot;Dogecoin;DOGE
+Binance TR;spot;First Digital USD;FDUSD
+Binance TR;spot;Saga;SAGA
+Binance TR;spot;Hedera;HBAR
+Binance TR;spot;ether.fi;ETHFI
+Binance TR;spot;TRON;TRX
+Binance TR;spot;Optimism;OP
+Binance TR;spot;XRP;XRP
+Binance TR;spot;Tellor;TRB
+Binance TR;spot;Fetch.ai;FET
+Binance TR;spot;Frontier;FRONT
+Binance TR;spot;COMBO;COMBO
+Binance TR;spot;Nervos Network;CKB
+Binance TR;spot;Arweave;AR
+Binance TR;spot;Arkham;ARKM
+Binance TR;spot;Jito;JTO
+Binance TR;spot;Tensor;TNSR
+Binance TR;spot;Arbitrum;ARB
+Binance TR;spot;ORDI;ORDI
+Binance TR;spot;Render;RNDR
+Binance TR;spot;LeverFi;LEVER
+Binance TR;spot;BNB;BNB
+Binance TR;spot;Paris Saint-Germain Fan Token;PSG
+Binance TR;spot;Pixels;PIXEL
+Binance TR;spot;Chiliz;CHZ
+Binance TR;spot;Acala Token;ACA
+Binance TR;spot;TerraClassicUSD;USTC
+Binance TR;spot;ApeCoin;APE
+Binance TR;spot;BinaryX;BNX
+Binance TR;spot;Memecoin;MEME
+Binance TR;spot;Aptos;APT
+Binance TR;spot;Sei;SEI
+Binance TR;spot;Galxe;GAL
+Binance TR;spot;Terra;LUNA
+Binance TR;spot;Polkadot;DOT
+Binance TR;spot;Santos FC Fan Token;SANTOS
+Binance TR;spot;SingularityNET;AGIX
+Binance TR;spot;NEAR Protocol;NEAR
+Binance TR;spot;AS Roma Fan Token;ASR
+Binance TR;spot;Waves;WAVES
+Binance TR;spot;Cosmos;ATOM
+Binance TR;spot;Cardano;ADA
+Binance TR;spot;Gala;GALA
+Binance TR;spot;Jupiter;JUP
+Binance TR;spot;The Graph;GRT
+Binance TR;spot;MOBOX;MBOX
+Binance TR;spot;Alchemy Pay;ACH
+Binance TR;spot;Stacks;STX
+Binance TR;spot;Bella Protocol;BEL
+Binance TR;spot;Aevo;AEVO
+Binance TR;spot;Bittensor;TAO
+Binance TR;spot;Mina;MINA
+Binance TR;spot;Ontology;ONT
+Binance TR;spot;Axelar;AXL
+Binance TR;spot;Omni Network;OMNI
+Binance TR;spot;Decentraland;MANA
+Binance TR;spot;Starknet;STRK
+Binance TR;spot;Altlayer;ALT
+Binance TR;spot;JasmyCoin;JASMY
+Binance TR;spot;Fantom;FTM
+Binance TR;spot;Holo;HOT
+Binance TR;spot;Xai;XAI
+Binance TR;spot;Reef;REEF
+Binance TR;spot;Celestia;TIA
+Binance TR;spot;Vanar Chain;VANRY
+Binance TR;spot;Manta Network;MANTA
+Binance TR;spot;Smooth Love Potion;SLP
+Binance TR;spot;Enjin Coin;ENJ
+Binance TR;spot;Pendle;PENDLE
+Binance TR;spot;BitTorrent (New);BTTC
+Binance TR;spot;BakeryToken;BAKE
+Binance TR;spot;Sui;SUI
+Binance TR;spot;Worldcoin;WLD
+Binance TR;spot;Injective;INJ
+Binance TR;spot;Biswap;BSW
+Binance TR;spot;Yield Guild Games;YGG
+Binance TR;spot;Open Campus;EDU
+Binance TR;spot;DODO;DODO
+Binance TR;spot;Verge;XVG
+Binance TR;spot;Litecoin;LTC
+Binance TR;spot;ARPA;ARPA
+Binance TR;spot;Metal DAO;MTL
+Binance TR;spot;Curve DAO Token;CRV
+Binance TR;spot;MANTRA;OM
+Binance TR;spot;SPACE ID;ID
+Binance TR;spot;PAX Gold;PAXG
+Binance TR;spot;Filecoin;FIL
+Binance TR;spot;Portal;PORTAL
+Binance TR;spot;Oasis;ROSE
+Binance TR;spot;Sleepless AI;AI
+Binance TR;spot;Alpine F1 Team Fan Token;ALPINE
+Binance TR;spot;GMT;GMT
+Binance TR;spot;Litentry;LIT
+Binance TR;spot;Juventus Fan Token;JUV
+Binance TR;spot;Loopring;LRC
+Binance TR;spot;Blur;BLUR
+Binance TR;spot;Polygon;MATIC
+Binance TR;spot;Alien Worlds;TLM
+Binance TR;spot;eCash;XEC
+Binance TR;spot;Chainlink;LINK
+Binance TR;spot;Ethereum Name Service;ENS
+Binance TR;spot;Unifi Protocol DAO;UNFI
+Binance TR;spot;Ankr;ANKR
+Binance TR;spot;Synthetix;SNX
+Binance TR;spot;Axie Infinity;AXS
+Binance TR;spot;Spell Token;SPELL
+Binance TR;spot;Radiant Capital;RDNT
+Binance TR;spot;Dymension;DYM
+Binance TR;spot;TrueUSD;TUSD
+Binance TR;spot;Maverick Protocol;MAV
+Binance TR;spot;Bitcoin Cash;BCH
+Binance TR;spot;IOTA;IOTA
+Binance TR;spot;The Sandbox;SAND
+Binance TR;spot;Conflux;CFX
+Binance TR;spot;USDC;USDC
+Binance TR;spot;Neo;NEO
+Binance TR;spot;Bonfida;FIDA
+Binance TR;spot;CyberConnect;CYBER
+Binance TR;spot;Ravencoin;RVN
+Binance TR;spot;Beam;BEAMX
+Binance TR;spot;Treasure;MAGIC
+Binance TR;spot;NFPrompt;NFP
+Binance TR;spot;Polymesh;POLYX
+Binance TR;spot;PancakeSwap;CAKE
+Binance TR;spot;S.S. Lazio Fan Token;LAZIO
+Binance TR;spot;Dent;DENT
+Binance TR;spot;Audius;AUDIO
+Binance TR;spot;Internet Computer;ICP
+Binance TR;spot;Solar;SXP
+Binance TR;spot;Ocean Protocol;OCEAN
+Binance TR;spot;SKALE;SKL
+Binance TR;spot;UMA;UMA
+Binance TR;spot;Zilliqa;ZIL
+Binance TR;spot;API3;API3
+Binance TR;spot;Metis;METIS
+Binance TR;spot;MyNeighborAlice;ALICE
+Binance TR;spot;Fusionist;ACE
+Binance TR;spot;VeChain;VET
+Binance TR;spot;Mines of Dalarnia;DAR
+Binance TR;spot;Ethereum Classic;ETC
+Binance TR;spot;Pyth Network;PYTH
+Binance TR;spot;FC Barcelona Fan Token;BAR
+Binance TR;spot;Stellar;XLM
+Binance TR;spot;Algorand;ALGO
+Binance TR;spot;Trust Wallet Token;TWT
+Binance TR;spot;Storj;STORJ
+Binance TR;spot;Neutron;NTRN
+Binance TR;spot;JOE;JOE
+Binance TR;spot;Venus;XVS
+Binance TR;spot;AC Milan Fan Token;ACM
+Binance TR;spot;Manchester City Fan Token;CITY
+Binance TR;spot;OG Fan Token;OG
+Binance TR;spot;Lido DAO;LDO
+Binance TR;spot;FC Porto Fan Token;PORTO
+Binance TR;spot;EOS;EOS
+Binance TR;spot;Raydium;RAY
+Binance TR;spot;Moonriver;MOVR
+Binance TR;spot;Uniswap;UNI
+Binance TR;spot;Harmony;ONE
+Binance TR;spot;Loom Network;LOOM
+Binance TR;spot;Livepeer;LPT
+Binance TR;spot;Tezos;XTZ
+Binance TR;spot;dYdX (ethDYDX);DYDX
+Binance TR;spot;Mask Network;MASK
+Binance TR;spot;Stratis [New];STRAX
+Binance TR;spot;Ark;ARK
+Binance TR;spot;Theta Network;THETA
+Binance TR;spot;Origin Protocol;OGN
+Binance TR;spot;COTI;COTI
+Binance TR;spot;SuperRare;RARE
+Binance TR;spot;Immutable;IMX
+Binance TR;spot;Band Protocol;BAND
+Binance TR;spot;Radworks;RAD
+Binance TR;spot;Aave;AAVE
+Binance TR;spot;Gas;GAS
+Binance TR;spot;SuperVerse;SUPER
+Binance TR;spot;Compound;COMP
+Binance TR;spot;Maker;MKR
+Binance TR;spot;Ronin;RONIN
+Binance TR;spot;Atletico De Madrid Fan Token;ATM
+Binance TR;spot;Viction;VIC
+Binance US;spot;Bitcoin;BTC
+Binance US;spot;Solana;SOL
+Binance US;spot;Tether USDt;USDT
+Binance US;spot;Dogecoin;DOGE
+Binance US;spot;Ethereum;ETH
+Binance US;spot;Shiba Inu;SHIB
+Binance US;spot;BNB;BNB
+Binance US;spot;USDC;USDC
+Binance US;spot;FLOKI;FLOKI
+Binance US;spot;Fetch.ai;FET
+Binance US;spot;Gala;GALA
+Binance US;spot;XRP;XRP
+Binance US;spot;Cardano;ADA
+Binance US;spot;Avalanche;AVAX
+Binance US;spot;Internet Computer;ICP
+Binance US;spot;Polygon;MATIC
+Binance US;spot;Chainlink;LINK
+Binance US;spot;Illuvium;ILV
+Binance US;spot;VeChain;VET
+Binance US;spot;Litecoin;LTC
+Binance US;spot;NEAR Protocol;NEAR
+Binance US;spot;Harmony;ONE
+Binance US;spot;Bitcoin Cash;BCH
+Binance US;spot;Render;RNDR
+Binance US;spot;Cosmos;ATOM
+Binance US;spot;Theta Network;THETA
+Binance US;spot;Polkadot;DOT
+Binance US;spot;Stellar;XLM
+Binance US;spot;Fantom;FTM
+Binance US;spot;Optimism;OP
+Binance US;spot;Flux;FLUX
+Binance US;spot;Theta Fuel;TFUEL
+Binance US;spot;VeThor Token;VTHO
+Binance US;spot;Algorand;ALGO
+Binance US;spot;Filecoin;FIL
+Binance US;spot;WAX;WAXP
+Binance US;spot;Ethereum Classic;ETC
+Binance US;spot;Kadena;KDA
+Binance US;spot;Boson Protocol;BOSON
+Binance US;spot;Neo;NEO
+Binance US;spot;Geojam Token;JAM
+Binance US;spot;Maker;MKR
+Binance US;spot;MultiversX;EGLD
+Binance US;spot;DigiByte;DGB
+Binance US;spot;Ontology;ONT
+Binance US;spot;Uniswap;UNI
+Binance US;spot;The Graph;GRT
+Binance US;spot;Audius;AUDIO
+Binance US;spot;Alchemy Pay;ACH
+Binance US;spot;Kusama;KSM
+Binance US;spot;Immutable;IMX
+Binance US;spot;The Sandbox;SAND
+Binance US;spot;Aptos;APT
+Binance US;spot;Livepeer;LPT
+Binance US;spot;Flow;FLOW
+Binance US;spot;Chiliz;CHZ
+Binance US;spot;Ocean Protocol;OCEAN
+Binance US;spot;Smooth Love Potion;SLP
+Binance US;spot;Enjin Coin;ENJ
+Binance US;spot;CUDOS;CUDOS
+Binance US;spot;1inch Network;1INCH
+Binance US;spot;Decentraland;MANA
+Binance US;spot;Oasis;ROSE
+Binance US;spot;EOS;EOS
+Binance US;spot;COTI;COTI
+Binance US;spot;Basic Attention Token;BAT
+Binance US;spot;Qtum;QTUM
+Binance US;spot;Celo;CELO
+Binance US;spot;Synthetix;SNX
+Binance US;spot;PAX Gold;PAXG
+Binance US;spot;SushiSwap;SUSHI
+Binance US;spot;CLV;CLV
+Binance US;spot;Mask Network;MASK
+Binance US;spot;Numeraire;NMR
+Binance US;spot;Astar;ASTR
+Binance US;spot;Kyber Network Crystal v2;KNC
+Binance US;spot;Lido DAO;LDO
+Binance US;spot;Zcash;ZEC
+Binance US;spot;eCash;XEC
+Binance US;spot;Ethereum Name Service;ENS
+Binance US;spot;Loopring;LRC
+Binance US;spot;Quant;QNT
+Binance US;spot;Horizen;ZEN
+Binance US;spot;Moonchain;MXC
+Binance US;spot;Orbs;ORBS
+Binance US;spot;Band Protocol;BAND
+Binance US;spot;0x Protocol;ZRX
+Binance US;spot;Axie Infinity;AXS
+Binance US;spot;Storj;STORJ
+Binance US;spot;ApeCoin;APE
+Binance US;spot;Ren;REN
+Binance US;spot;Threshold;T
+Binance US;spot;Arbitrum;ARB
+Binance US;spot;Golem;GLM
+Binance US;spot;Cartesi;CTSI
+Binance US;spot;Blur;BLUR
+Binance US;spot;Curve DAO Token;CRV
+Binance US;spot;API3;API3
+Binance US;spot;Kava;KAVA
+Binance US;spot;LTO Network;LTO
+Binance US;spot;Orchid;OXT
+Binance US;spot;Reef;REEF
+Binance US;spot;SKALE;SKL
+Binance US;spot;Radworks;RAD
+Binance US;spot;Ampleforth Governance Token;FORTH
+Binance US;spot;Compound;COMP
+Binance US;spot;Syscoin;SYS
+Binance US;spot;Marlin;POND
+Binance US;spot;Alien Worlds;TLM
+Binance US;spot;yearn.finance;YFI
+Binance US;spot;Celer Network;CELR
+Binance US;spot;Origin Protocol;OGN
+Binance US;spot;StormX;STMX
+Binance US;spot;Biconomy;BICO
+Binance US;spot;OriginTrail;TRAC
+Binance US;spot;SuperRare;RARE
+Binance US;spot;Santos FC Fan Token;SANTOS
+Binance US;spot;Stargate Finance;STG
+Binance US;spot;Loom Network;LOOM
+Binance US;spot;IOST;IOST
+Binance US;spot;AdEx;ADX
+Binance US;spot;Bancor;BNT
+Binance US;spot;iExec RLC;RLC
+Binance US;spot;BarnBridge;BOND
+Binance US;spot;Aragon;ANT
+Binance;spot;Bitcoin;BTC
+Binance;spot;Ethereum;ETH
+Binance;spot;Solana;SOL
+Binance;spot;USDC;USDC
+Binance;spot;First Digital USD;FDUSD
+Binance;spot;Pepe;PEPE
+Binance;spot;Dogecoin;DOGE
+Binance;spot;BNB;BNB
+Binance;spot;XRP;XRP
+Binance;spot;dogwifhat;WIF
+Binance;spot;Shiba Inu;SHIB
+Binance;spot;Ethena;ENA
+Binance;spot;Optimism;OP
+Binance;spot;Bonk;BONK
+Binance;spot;NEAR Protocol;NEAR
+Binance;spot;THORChain;RUNE
+Binance;spot;Arbitrum;ARB
+Binance;spot;ether.fi;ETHFI
+Binance;spot;Avalanche;AVAX
+Binance;spot;BOOK OF MEME;BOME
+Binance;spot;ORDI;ORDI
+Binance;spot;Tether USDt;USDT
+Binance;spot;Renzo;REZ
+Binance;spot;Fetch.ai;FET
+Binance;spot;Wormhole;W
+Binance;spot;Arweave;AR
+Binance;spot;TRON;TRX
+Binance;spot;Cardano;ADA
+Binance;spot;FLOKI;FLOKI
+Binance;spot;Worldcoin;WLD
+Binance;spot;Hedera;HBAR
+Binance;spot;Polygon;MATIC
+Binance;spot;Render;RNDR
+Binance;spot;Polkadot;DOT
+Binance;spot;Chainlink;LINK
+Binance;spot;Starknet;STRK
+Binance;spot;Cosmos;ATOM
+Binance;spot;Stacks;STX
+Binance;spot;Filecoin;FIL
+Binance;spot;Fantom;FTM
+Binance;spot;Sei;SEI
+Binance;spot;Litecoin;LTC
+Binance;spot;Contentos;COS
+Binance;spot;Sui;SUI
+Binance;spot;Bitcoin Cash;BCH
+Binance;spot;Pendle;PENDLE
+Binance;spot;Ethereum Classic;ETC
+Binance;spot;Nervos Network;CKB
+Binance;spot;Frontier;FRONT
+Binance;spot;Gala;GALA
+Binance;spot;Jito;JTO
+Binance;spot;Wrapped Bitcoin;WBTC
+Binance;spot;Aptos;APT
+Binance;spot;Internet Computer;ICP
+Binance;spot;SATS;1000SATS
+Binance;spot;Jupiter;JUP
+Binance;spot;Arkham;ARKM
+Binance;spot;Saga;SAGA
+Binance;spot;Injective;INJ
+Binance;spot;Celestia;TIA
+Binance;spot;Manta Network;MANTA
+Binance;spot;Altlayer;ALT
+Binance;spot;Wrapped Beacon ETH;WBETH
+Binance;spot;Pixels;PIXEL
+Binance;spot;SingularityNET;AGIX
+Binance;spot;Chiliz;CHZ
+Binance;spot;Uniswap;UNI
+Binance;spot;GMT;GMT
+Binance;spot;Omni Network;OMNI
+Binance;spot;Amp;AMP
+Binance;spot;ssv.network;SSV
+Binance;spot;Tensor;TNSR
+Binance;spot;Yield Guild Games;YGG
+Binance;spot;Voyager Token;VGX
+Binance;spot;Aevo;AEVO
+Binance;spot;JasmyCoin;JASMY
+Binance;spot;Bittensor;TAO
+Binance;spot;The Graph;GRT
+Binance;spot;LeverFi;LEVER
+Binance;spot;Neo;NEO
+Binance;spot;Lido DAO;LDO
+Binance;spot;Theta Network;THETA
+Binance;spot;VeChain;VET
+Binance;spot;EOS;EOS
+Binance;spot;BinaryX;BNX
+Binance;spot;MANTRA;OM
+Binance;spot;ApeCoin;APE
+Binance;spot;Memecoin;MEME
+Binance;spot;dYdX (ethDYDX);DYDX
+Binance;spot;Automata Network;ATA
+Binance;spot;1inch Network;1INCH
+Binance;spot;FTX Token;FTT
+Binance;spot;The Sandbox;SAND
+Binance;spot;Golem;GLM
+Binance;spot;Algorand;ALGO
+Binance;spot;Terra Classic;LUNC
+Binance;spot;Conflux;CFX
+Binance;spot;Maker;MKR
+Binance;spot;PancakeSwap;CAKE
+Binance;spot;Highstreet;HIGH
+Binance;spot;Axelar;AXL
+Binance;spot;COMBO;COMBO
+Binance;spot;Polymesh;POLYX
+Binance;spot;Tellor;TRB
+Binance;spot;Ronin;RONIN
+Binance;spot;Astar;ASTR
+Binance;spot;Ankr;ANKR
+Binance;spot;Pyth Network;PYTH
+Binance;spot;Curve DAO Token;CRV
+Binance;spot;Beam;BEAMX
+Binance;spot;Aave;AAVE
+Binance;spot;Axie Infinity;AXS
+Binance;spot;Galxe;GAL
+Binance;spot;Ontology;ONT
+Binance;spot;Steem;STEEM
+Binance;spot;Waves;WAVES
+Binance;spot;Metal DAO;MTL
+Binance;spot;Portal;PORTAL
+Binance;spot;Vanar Chain;VANRY
+Binance;spot;Ethereum Name Service;ENS
+Binance;spot;Sleepless AI;AI
+Binance;spot;Stellar;XLM
+Binance;spot;Terra;LUNA
+Binance;spot;Blur;BLUR
+Binance;spot;Alchemy Pay;ACH
+Binance;spot;MultiversX;EGLD
+Binance;spot;Oasis;ROSE
+Binance;spot;Chromia;CHR
+Binance;spot;Ontology Gas;ONG
+Binance;spot;Xai;XAI
+Binance;spot;IOTA;IOTA
+Binance;spot;REI Network;REI
+Binance;spot;Trust Wallet Token;TWT
+Binance;spot;Reserve Rights;RSR
+Binance;spot;Mina;MINA
+Binance;spot;NFPrompt;NFP
+Binance;spot;Harvest Finance;FARM
+Binance;spot;Livepeer;LPT
+Binance;spot;Mask Network;MASK
+Binance;spot;Immutable;IMX
+Binance;spot;Orion;ORN
+Binance;spot;Flow;FLOW
+Binance;spot;ConstitutionDAO;PEOPLE
+Binance;spot;Venus;XVS
+Binance;spot;SushiSwap;SUSHI
+Binance;spot;Dymension;DYM
+Binance;spot;SPACE ID;ID
+Binance;spot;Ocean Protocol;OCEAN
+Binance;spot;Raydium;RAY
+Binance;spot;Liquity;LQTY
+Binance;spot;Decentraland;MANA
+Binance;spot;Synthetix;SNX
+Binance;spot;Paris Saint-Germain Fan Token;PSG
+Binance;spot;TrueUSD;TUSD
+Binance;spot;TrueFi;TRU
+Binance;spot;Theta Fuel;TFUEL
+Binance;spot;Radiant Capital;RDNT
+Binance;spot;Maverick Protocol;MAV
+Binance;spot;SKALE;SKL
+Binance;spot;Fusionist;ACE
+Binance;spot;Compound;COMP
+Binance;spot;Lisk;LSK
+Binance;spot;Pundi X (New);PUNDIX
+Binance;spot;Treasure;MAGIC
+Binance;spot;Verge;XVG
+Binance;spot;IoTeX;IOTX
+Binance;spot;Zilliqa;ZIL
+Binance;spot;CyberConnect;CYBER
+Binance;spot;Phoenix;PHB
+Binance;spot;Civic;CVC
+Binance;spot;Open Campus;EDU
+Binance;spot;Neutron;NTRN
+Binance;spot;Celo;CELO
+Binance;spot;Tezos;XTZ
+Binance;spot;BakeryToken;BAKE
+Binance;spot;eCash;XEC
+Binance;spot;SafePal;SFP
+Binance;spot;COTI;COTI
+Binance;spot;Harmony;ONE
+Binance;spot;BitTorrent (New);BTTC
+Binance;spot;Enjin Coin;ENJ
+Binance;spot;Hifi Finance;HIFI
+Binance;spot;Gas;GAS
+Binance;spot;Holo;HOT
+Binance;spot;Threshold;T
+Binance;spot;Moonbeam;GLMR
+Binance;spot;Illuvium;ILV
+Binance;spot;Klaytn;KLAY
+Binance;spot;PAX Gold;PAXG
+Binance;spot;Stargate Finance;STG
+Binance;spot;Ravencoin;RVN
+Binance;spot;Powerledger;POWR
+Binance;spot;Moonriver;MOVR
+Binance;spot;Metis;METIS
+Binance;spot;TerraClassicUSD;USTC
+Binance;spot;0x Protocol;ZRX
+Binance;spot;GMX;GMX
+Binance;spot;Stella;ALPHA
+Binance;spot;Akropolis;AKRO
+Binance;spot;WOO;WOO
+BingX;spot;Bitcoin;BTC
+BingX;spot;Ethereum;ETH
+BingX;spot;Solana;SOL
+BingX;spot;USDC;USDC
+BingX;spot;Pepe;PEPE
+BingX;spot;First Digital USD;FDUSD
+BingX;spot;XRP;XRP
+BingX;spot;Dogecoin;DOGE
+BingX;spot;BNB;BNB
+BingX;spot;Fasttoken;FTN
+BingX;spot;Popcat (SOL);POPCAT
+BingX;spot;dogwifhat;WIF
+BingX;spot;Ondo;ONDO
+BingX;spot;Lido Staked ETH;stETH
+BingX;spot;ether.fi;ETHFI
+BingX;spot;Ethena;ENA
+BingX;spot;Shiba Inu;SHIB
+BingX;spot;Matr1x Fire;FIRE
+BingX;spot;NEAR Protocol;NEAR
+BingX;spot;Optimism;OP
+BingX;spot;Arbitrum;ARB
+BingX;spot;Bonk;BONK
+BingX;spot;Mantle;MNT
+BingX;spot;Wormhole;W
+BingX;spot;Cardano;ADA
+BingX;spot;Safe;SAFE
+BingX;spot;Hedera;HBAR
+BingX;spot;SLERF;SLERF
+BingX;spot;Avalanche;AVAX
+BingX;spot;Polygon;MATIC
+BingX;spot;cat in a dogs world;MEW
+BingX;spot;Fetch.ai;FET
+BingX;spot;Polkadot;DOT
+BingX;spot;THORChain;RUNE
+BingX;spot;Renzo;REZ
+BingX;spot;TRON;TRX
+BingX;spot;Litecoin;LTC
+BingX;spot;Arweave;AR
+BingX;spot;iMe Lab;LIME
+BingX;spot;Contentos;COS
+BingX;spot;Merlin Chain;MERL
+BingX;spot;Chainlink;LINK
+BingX;spot;Bitcoin Cash;BCH
+BingX;spot;Fantom;FTM
+BingX;spot;Frontier;FRONT
+BingX;spot;Grok;GROK
+BingX;spot;ORDI;ORDI
+BingX;spot;Cosmos;ATOM
+BingX;spot;Manta Network;MANTA
+BingX;spot;Aptos;APT
+BingX;spot;Render;RNDR
+BingX;spot;ZetaChain;ZETA
+BingX;spot;Degen;DEGEN
+BingX;spot;Filecoin;FIL
+BingX;spot;Stacks;STX
+BingX;spot;Fluence;FLT
+BingX;spot;Sui;SUI
+BingX;spot;Altura;ALU
+BingX;spot;Pendle;PENDLE
+BingX;spot;Sei;SEI
+BingX;spot;Starknet;STRK
+BingX;spot;Nervos Network;CKB
+BingX;spot;Arkham;ARKM
+BingX;spot;FLOKI;FLOKI
+BingX;spot;Wen;WEN
+BingX;spot;PAAL AI;PAAL
+BingX;spot;Gala;GALA
+BingX;spot;Myro;MYRO
+BingX;spot;Celestia;TIA
+BingX;spot;Multibit;MUBI
+BingX;spot;Ready to Fight;RTF
+BingX;spot;Injective;INJ
+BingX;spot;Aerodrome Finance;AERO
+BingX;spot;Carbon browser;CSIX
+BingX;spot;WAGMI Games;WAGMIGAMES
+BingX;spot;BlackCardCoin;BCCOIN
+BingX;spot;Meson Network;MSN
+BingX;spot;Bittensor;TAO
+BingX;spot;Ethereum Classic;ETC
+BingX;spot;SingularityNET;AGIX
+BingX;spot;EOS;EOS
+BingX;spot;BOOK OF MEME;BOME
+BingX;spot;Memecoin;MEME
+BingX;spot;Toncoin;TONCOIN
+BingX;spot;Choise.com;CHO
+BingX;spot;Aevo;AEVO
+BingX;spot;Algorand;ALGO
+BingX;spot;Jito;JTO
+BingX;spot;Theta Network;THETA
+BingX;spot;Core;CORE
+BingX;spot;Amp;AMP
+BingX;spot;JasmyCoin;JASMY
+BingX;spot;Pixels;PIXEL
+BingX;spot;Kaspa;KAS
+BingX;spot;Neo;NEO
+BingX;spot;GTA Token;GTA
+BingX;spot;Voyager Token;VGX
+BingX;spot;Polyhedra Network;ZK
+BingX;spot;BinaryX;BNX
+BingX;spot;Lido DAO;LDO
+BingX;spot;dYdX (ethDYDX);DYDX
+BingX;spot;Uniswap;UNI
+BingX;spot;Yield Guild Games;YGG
+BingX;spot;MANTRA;OM
+BingX;spot;Heroes of Mavia;MAVIA
+BingX;spot;Chiliz;CHZ
+BingX;spot;Crypto Hunters Coin;CRH
+BingX;spot;FTX Token;FTT
+BingX;spot;1ex Trading Board;1EX
+BingX;spot;Jupiter;JUP
+BingX;spot;Sinverse;SIN
+BingX;spot;PancakeSwap;CAKE
+BingX;spot;Pyth Network;PYTH
+BingX;spot;Automata Network;ATA
+BingX;spot;Foxy;FOXY
+BingX;spot;VeChain;VET
+BingX;spot;Telcoin;TEL
+BingX;spot;ssv.network;SSV
+BingX;spot;Masa;MASA
+BingX;spot;neversol;NEVER
+BingX;spot;Zeus Network;ZEUS
+BingX;spot;Helium Mobile;MOBILE
+BingX;spot;Tensor;TNSR
+BingX;spot;ATOR Protocol;ATOR
+BingX;spot;Maker;MKR
+BingX;spot;KARRAT;KARRAT
+BingX;spot;ApeCoin;APE
+BingX;spot;Aave;AAVE
+BingX;spot;Blur;BLUR
+BingX;spot;The Graph;GRT
+BingX;spot;The Sandbox;SAND
+BingX;spot;Stellar;XLM
+BingX;spot;Beacon ETH;BETH
+BingX;spot;Xai;XAI
+BingX;spot;HyperGPT;HGPT
+BingX;spot;Dymension;DYM
+BingX;spot;LeverFi;LEVER
+BingX;spot;TrueFi;TRU
+BingX;spot;Conflux;CFX
+BingX;spot;MANEKI;MANEKI
+BingX;spot;Farcana;FAR
+BingX;spot;DMAIL Network;DMAIL
+BingX;spot;Ethereum Name Service;ENS
+BingX;spot;Highstreet;HIGH
+BingX;spot;Tellor;TRB
+BingX;spot;Venus;XVS
+BingX;spot;Astar;ASTR
+BingX;spot;Ankr;ANKR
+BingX;spot;Celsius;CEL
+BingX;spot;Galxe;GAL
+BingX;spot;GMT;GMT
+BingX;spot;Mask Network;MASK
+BingX;spot;Immutable;IMX
+BingX;spot;Terra Classic;LUNC
+BingX;spot;SushiSwap;SUSHI
+BingX;spot;MicroVisionChain;SPACE
+BingX;spot;Solidus Ai Tech;AITECH
+BingX;spot;Ocean Protocol;OCEAN
+BingX;spot;Node AI;GPU
+BingX;spot;Steem;STEEM
+BingX;spot;1inch Network;1INCH
+BingX;spot;Orange;ORNJ
+BingX;spot;Chromia;CHR
+BingX;spot;Hashflow;HFT
+BingX;spot;Coq Inu;COQ
+BingX;spot;Curve DAO Token;CRV
+BingX;spot;MAGA;TRUMP
+BingX;spot;Fabwelt;WELT
+BingX;spot;rats (Ordinals);rats
+BingX;spot;Eggdog;EGG
+BingX;spot;xPET tech;XPET
+BingX;spot;Raydium;RAY
+BingX;spot;TABOO TOKEN;TABOO
+BingX;spot;Flow;FLOW
+BingX;spot;Massive Protocol;MAV
+BingX;spot;Theta Fuel;TFUEL
+BingX;spot;Trust Wallet Token;TWT
+BingX;spot;Polymesh;POLYX
+BingX;spot;Ravencoin;RVN
+BingX;spot;Waves;WAVES
+BingX;spot;Axie Infinity;AXS
+BingX;spot;Ontology;ONT
+BingX;spot;Reserve Rights;RSR
+BingX;spot;OpSec;OPSEC
+BingX;spot;Autonolas;OLAS
+BingX;spot;Metal DAO;MTL
+BingX;spot;Roost Coin;ROOST
+BingX;spot;Verge;XVG
+BingX;spot;Mina;MINA
+BingX;spot;GUMMY;GUMMY
+BingX;spot;Realio Network;RIO
+BingX;spot;Aegis Ai;AEGIS
+BingX;spot;Livepeer;LPT
+BingX;spot;Altlayer;ALT
+BingX;spot;Solchat;CHAT
+BingX;spot;Orion;ORN
+BingX;spot;Lisk;LSK
+BingX;spot;CyberConnect;CYBER
+BingX;spot;PUPS (Ordinals);PUPS
+BingX;spot;Harmony;ONE
+Bitfinex;spot;Bitcoin;BTC
+Bitfinex;spot;Tether USDt;USDT
+Bitfinex;spot;Ethereum;ETH
+Bitfinex;spot;Solana;SOL
+Bitfinex;spot;USDC;UDC
+Bitfinex;spot;Monero;XMR
+Bitfinex;spot;XRP;XRP
+Bitfinex;spot;Cardano;ADA
+Bitfinex;spot;Dogecoin;DOGE
+Bitfinex;spot;Tether Gold;XAUt
+Bitfinex;spot;EOS;EOS
+Bitfinex;spot;Litecoin;LTC
+Bitfinex;spot;Chintai;CHEX
+Bitfinex;spot;Chainlink;LINK
+Bitfinex;spot;Toncoin;TON
+Bitfinex;spot;Avalanche;AVAX
+Bitfinex;spot;Ampleforth;AMP
+Bitfinex;spot;Neo;NEO
+Bitfinex;spot;XDC Network;XDC
+Bitfinex;spot;Arbitrum;ARB
+Bitfinex;spot;Polkadot;DOT
+Bitfinex;spot;Aptos;APT
+Bitfinex;spot;IOTA;IOT
+Bitfinex;spot;Gala;GALA
+Bitfinex;spot;Stellar;XLM
+Bitfinex;spot;NEAR Protocol;NEAR
+Bitfinex;spot;Shiba Inu;SHIB
+Bitfinex;spot;Bitcoin Cash;BCHN
+Bitfinex;spot;Polygon;MATIC
+Bitfinex;spot;Ethereum Classic;ETC
+Bitfinex;spot;SushiSwap;SUSHI
+Bitfinex;spot;Sui;SUI
+Bitfinex;spot;Celestia;TIA
+Bitfinex;spot;Fantom;FTM
+Bitfinex;spot;Wrapped Bitcoin;WBT
+Bitfinex;spot;Bitget Token;BGB
+Bitfinex;spot;Dymension;DYM
+Bitfinex;spot;Radix;XRD
+Bitfinex;spot;Dash;DSH
+Bitfinex;spot;Kleros;PNK
+Bitfinex;spot;ZetaChain;ZETA
+Bitfinex;spot;UNUS SED LEO;LEO
+Bitfinex;spot;TRON;TRX
+Bitfinex;spot;LIF3;LIFIII
+Bitfinex;spot;Algorand;ALG
+Bitfinex;spot;Bonk;BONK
+Bitfinex;spot;Cosmos;ATO
+Bitfinex;spot;Filecoin;FIL
+Bitfinex;spot;SwissBorg;BORG
+Bitfinex;spot;VeChain;VET
+Bitfinex;spot;Lido DAO;LDO
+Bitfinex;spot;Tether EURt;EUT
+Bitfinex;spot;ApeCoin;APE
+Bitfinex;spot;Fetch.ai;FET
+Bitfinex;spot;Uniswap;UNI
+Bitfinex;spot;Tezos;XTZ
+Bitfinex;spot;0x Protocol;ZRX
+Bitfinex;spot;Starknet;STRK
+Bitfinex;spot;Ocean Protocol;OCEAN
+Bitfinex;spot;Optimism;OP
+Bitfinex;spot;Chiliz;CHZ
+Bitfinex;spot;BlackFort Exchange Network;BXN
+Bitfinex;spot;Ultra;UOS
+Bitfinex;spot;Aave;AAVE
+Bitfinex;spot;Maker;MKR
+Bitfinex;spot;Curve DAO Token;CRV
+Bitfinex;spot;dogwifhat;WIF
+Bitfinex;spot;yearn.finance;YFI
+Bitfinex;spot;Zcash;ZEC
+Bitfinex;spot;The Graph;GRT
+Bitfinex;spot;Ethena;ENA
+Bitfinex;spot;Shimmer;SMR
+Bitfinex;spot;Aleph Zero;AZERO
+Bitfinex;spot;The Sandbox;SAND
+Bitfinex;spot;Tap;XTP
+Bitfinex;spot;tomiNet;TOMI
+Bitfinex;spot;MultiversX;EGLD
+Bitfinex;spot;Quantfury Token;QTF
+Bitfinex;spot;Origin Protocol;OGN
+Bitfinex;spot;Terra;LUNA2
+Bitfinex;spot;EthereumPoW;ETHW
+Bitfinex;spot;Sei;SEI
+Bitfinex;spot;Boson Protocol;BOSON
+Bitfinex;spot;Kusama;KSM
+Bitfinex;spot;OMG Network;OMG
+Bitfinex;spot;Wrapped Minima;WMINIMA
+Bitfinex;spot;Blur;BLUR
+Bitfinex;spot;Kava;KAVA
+Bitfinex;spot;Waves;WAVES
+Bitfinex;spot;Ampleforth Governance Token;FORTH
+Bitfinex;spot;Synthetix;SNX
+Bitfinex;spot;Lympo;LYM
+Bitfinex;spot;Rally;RLY
+Bitfinex;spot;HI;HIX
+Bitfinex;spot;Spell Token;SPELL
+Bitfinex;spot;Songbird;SGB
+Bitfinex;spot;Internet Computer;ICP
+Bitfinex;spot;Dora Factory;DORA
+Bitfinex;spot;Karate Combat;KARATE
+Bitfinex;spot;JasmyCoin;JASMY
+Bitfinex;spot;Axie Infinity;AXS
+Bitfinex;spot;WhiteBIT Coin;WHBT
+Bitfinex;spot;Nexera;NXRA
+Bitfinex;spot;Everest;IDX
+Bitfinex;spot;Boba Network;BOBA
+Bitfinex;spot;Nine Chronicles;WNCG
+Bitfinex;spot;Compound;COMP
+Bitfinex;spot;Verge;XVG
+Bitfinex;spot;Enzyme;MLN
+Bitfinex;spot;Dusk;DUSK
+Bitfinex;spot;Sweat Economy;SWEAT
+Bitfinex;spot;Partisia Blockchain;MPC
+Bitfinex;spot;JUST;JST
+Bitfinex;spot;Wormhole;WXX
+Bitfinex;spot;Telos;TLOS
+Bitfinex;spot;GateToken;GTX
+Bitfinex;spot;Concordium;CCD
+Bitfinex;spot;Stargate Finance;STG
+Bitfinex;spot;Jupiter;JUP
+Bitfinex;spot;SIDUS;SIDUS
+Bitfinex;spot;Polytrade;TRADE
+Bitfinex;spot;Wilder World;WILD
+Bitfinex;spot;Zilliqa;ZIL
+Bitfinex;spot;FLOKI;FLOKI
+Bitfinex;spot;1inch Network;1INCH
+Bitfinex;spot;Pluton;PLU
+Bitfinex;spot;Magic Internet Money;MIM
+Bitfinex;spot;Loopring;LRC
+Bitfinex;spot;BitKan;KAN
+Bitfinex;spot;Giant Mammoth;GMMT
+Bitfinex;spot;Basic Attention Token;BAT
+Bitfinex;spot;Kyber Network Crystal v2;KNC
+Bitfinex;spot;Verasity;VRA
+Bitfinex;spot;rhino.fi;DVF
+Bitfinex;spot;Bit2Me;B2M
+Bitfinex;spot;BitTorrent (New);BTT
+Bitfinex;spot;Flare;FLR
+Bitfinex;spot;Celo;CELO
+Bitfinex;spot;Balancer;BAL
+Bitfinex;spot;Injective;INJ
+Bitfinex;spot;TokenFi;TOKEN
+Bitfinex;spot;Sun (New);SUN
+Bitfinex;spot;Decentraland;MNA
+Bitfinex;spot;Qtum;QTM
+Bitfinex;spot;Theta Network;THETA
+Bitfinex;spot;SENATE;SENATE
+Bitfinex;spot;Nexo;NEXO
+Bitfinex;spot;XCAD Network;XCAD
+Bitfinex;spot;Request;REQ
+Bitfinex;spot;Human;HMT
+Bitfinex;spot;Onomy Protocol;NOM
+Bitfinex;spot;Gomining;GOMINING
+Bitfinex;spot;Gnosis;GNO
+Bitfinex;spot;Band Protocol;BAND
+Bitfinex;spot;Dai;DAI
+Bitfinex;spot;Omni;OMN
+Bitfinex;spot;Moon App;APP
+Bitfinex;spot;Fractal ID;FCL
+Bitfinex;spot;WOO;WOO
+Bitfinex;spot;Tether MXNt;MXNt
+Bitfinex;spot;Coq Inu;COQ
+Bitfinex;spot;Recovery Right Token;RRT
+Bitfinex;spot;Bitpanda Ecosystem Token;BEST
+Bitfinex;spot;APENFT;APENFT
+Bitfinex;spot;FUNToken;FUN
+Bitfinex;spot;Suku;SUKU
+Bitfinex;spot;Memetic / PepeCoin;MEME
+Bitfinex;spot;GoCrypto Token;GOC
+Bitfinex;spot;TrueUSD;TSD
+Bitfinex;spot;Pax Dollar;PAX
+Bitfinex;spot;Pepe;PEPE
+Bitfinex;spot;Memecoin;MEME
+bitFlyer;spot;Bitcoin;BTC
+bitFlyer;spot;Ethereum;ETH
+bitFlyer;spot;XRP;XRP
+bitFlyer;spot;Stellar;XLM
+bitFlyer;spot;MonaCoin;MONA
+bitFlyer;spot;Bitcoin Cash;BCH
+Bitget;spot;Bitcoin;BTC
+Bitget;spot;Ethereum;ETH
+Bitget;spot;Solana;SOL
+Bitget;spot;Dogecoin;DOGE
+Bitget;spot;Pepe;PEPE
+Bitget;spot;XRP;XRP
+Bitget;spot;Bitget Token;BGB
+Bitget;spot;Arbitrum;ARB
+Bitget;spot;NEAR Protocol;NEAR
+Bitget;spot;Shiba Inu;SHIB
+Bitget;spot;Optimism;OP
+Bitget;spot;USDC;USDC
+Bitget;spot;dogwifhat;WIF
+Bitget;spot;Litecoin;LTC
+Bitget;spot;Frontier;FRONT
+Bitget;spot;Avalanche;AVAX
+Bitget;spot;Polygon;MATIC
+Bitget;spot;Worldcoin;WLD
+Bitget;spot;Cardano;ADA
+Bitget;spot;FLOKI;FLOKI
+Bitget;spot;GOMDori;GOMD
+Bitget;spot;Starknet;STRK
+Bitget;spot;Chainlink;LINK
+Bitget;spot;Fetch.ai;FET
+Bitget;spot;Art de Finance;ADF
+Bitget;spot;Arweave;AR
+Bitget;spot;Render;RNDR
+Bitget;spot;Ondo;ONDO
+Bitget;spot;THORChain;RUNE
+Bitget;spot;TRON;TRX
+Bitget;spot;Bitcoin Cash;BCH
+Bitget;spot;Core;CORE
+Bitget;spot;Neo;NEO
+Bitget;spot;Stacks;STX
+Bitget;spot;Sei;SEI
+Bitget;spot;Gala;GALA
+Bitget;spot;SingularityNET;AGIX
+Bitget;spot;Filecoin;FIL
+Bitget;spot;Celestia;TIA
+Bitget;spot;Polkadot;DOT
+Bitget;spot;Carrieverse;CVTX
+Bitget;spot;Aptos;APT
+Bitget;spot;SLERF;SLERF
+Bitget;spot;Sui;SUI
+Bitget;spot;Ethereum Classic;ETC
+Bitget;spot;Cosmos;ATOM
+Bitget;spot;Matr1x Fire;FIRE
+Bitget;spot;Injective;INJ
+Bitget;spot;Stellar;XLM
+Bitget;spot;JasmyCoin;JASMY
+Bitget;spot;Galxe;GAL
+Bitget;spot;Fantom;FTM
+Bitget;spot;Arkham;ARKM
+Bitget;spot;Wormhole;W
+Bitget;spot;Conflux;CFX
+Bitget;spot;Parcl;PRCL
+Bitget;spot;Ethena;ENA
+Bitget;spot;Amp;AMP
+Bitget;spot;rats (Ordinals);rats
+Bitget;spot;Internet Computer;ICP
+Bitget;spot;Bitcoin SV;BSV
+Bitget;spot;Bittensor;TAO
+Bitget;spot;Pendle;PENDLE
+Bitget;spot;FTX Token;FTT
+Bitget;spot;Blur;BLUR
+Bitget;spot;Vita Inu;VINU
+Bitget;spot;Altura;ALU
+Bitget;spot;COMBO;COMBO
+Bitget;spot;EOS;EOS
+Bitget;spot;Kaspa;KAS
+Bitget;spot;BinaryX;BNX
+Bitget;spot;XDB CHAIN;XDB
+Bitget;spot;Metal DAO;MTL
+Bitget;spot;Tether USDt;USDT
+Bitget;spot;Renzo;REZ
+Bitget;spot;Pixels;PIXEL
+Bitget;spot;FOMO BULL CLUB;FOMO
+Bitget;spot;Heroes of Mavia;MAVIA
+Bitget;spot;Coreum;COREUM
+Bitget;spot;Polyhedra Network;ZK
+Bitget;spot;ArbDoge AI;AIDOGE
+Bitget;spot;Chiliz;CHZ
+Bitget;spot;Omni Network;OMNI1
+Bitget;spot;Minati Coin;MNTC
+Bitget;spot;Ethereum Name Service;ENS
+Bitget;spot;Baby Bonk;BABYBONK
+Bitget;spot;Bonk;BONK
+Bitget;spot;Safe;SAFE
+Bitget;spot;ssv.network;SSV
+Bitget;spot;Ribbon Finance;RBN
+Bitget;spot;GensoKishi Metaverse;MV
+Bitget;spot;Yield Guild Games;YGG
+Bitget;spot;Aave;AAVE
+Bitget;spot;SushiSwap;SUSHI
+Bitget;spot;Mina;MINA
+Bitget;spot;TrueFi;TRU
+Bitget;spot;SPACE ID;ID
+Bitget;spot;Altlayer;$ALT
+Bitget;spot;OORT;OORT
+Bitget;spot;Sologenic;SOLO
+Bitget;spot;Harmony;ONE
+Bitget;spot;BNB;BNB
+Bitget;spot;Maverick Protocol;MAV
+Bitget;spot;Liquity;LQTY
+Bitget;spot;Orange;ORNJ
+Bitget;spot;UNICE;UNICE
+Bitget;spot;IoTeX;IOTX
+Bitget;spot;Linear Finance;LINA
+Bitget;spot;BOOK OF MEME;BOME
+Bitget;spot;Klaytn;KLAY
+Bitget;spot;Apu Apustaja;APU
+Bitget;spot;Gomining;GOMINING
+Bitget;spot;Bluzelle;BLZ
+Bitget;spot;Ankr;ANKR
+Bitget;spot;Toncoin;TONCOIN
+Bitget;spot;Tensor;TNSR
+Bitget;spot;NvirWorld;NVIR
+Bitget;spot;MANEKI;MANEKI
+Bitget;spot;Shido [New];SHIDO
+Bitget;spot;Gas;GAS
+Bitget;spot;Ailey;ALE
+Bitget;spot;Perpetual Protocol;PERP
+Bitget;spot;Flow;FLOW
+Bitget;spot;Vanar Chain;VANRY
+Bitget;spot;Brett;BRETT
+Bitget;spot;ORDI;ORDI
+Bitget;spot;Multibit;MUBI
+Bitget;spot;Ontology;ONT
+Bitget;spot;BizAuto;BIZA
+Bitget;spot;MicroVisionChain;SPACE
+Bitget;spot;Treasure;MAGIC
+Bitget;spot;Dai;DAI
+Bitget;spot;dYdX (ethDYDX);DYDX
+Bitget;spot;Lido DAO;LDO
+Bitget;spot;ConstitutionDAO;PEOPLE
+Bitget;spot;MangoMan Intelligent;MMIT
+Bitget;spot;The Graph;GRT
+Bitget;spot;Litentry;LIT
+Bitget;spot;ApeCoin;APE
+Bitget;spot;UMA;UMA
+Bitget;spot;Manta Network;MANTA
+Bitget;spot;GMX;GMX
+Bitget;spot;Axie Infinity;AXS
+Bitget;spot;Oasis;ROSE
+Bitget;spot;Ocean Protocol;OCEAN
+Bitget;spot;Fasttoken;FTN
+Bitget;spot;Degen;$DEGEN
+Bitget;spot;ether.fi;ETHFI
+Bitget;spot;Alchemy Pay;ACH
+Bitget;spot;The Root Network;ROOT
+Bitget;spot;cat in a dogs world;MEW
+Bitget;spot;Spell Token;SPELL
+Bitget;spot;Games for a Living;GFAL
+Bitget;spot;Terra Classic;LUNC
+Bitget;spot;PlayZap;PZP
+Bitget;spot;Vulcan Forged (PYR);PYR
+Bitget;spot;Holdstation;HOLD
+Bitget;spot;Trust Wallet Token;TWT
+Bitget;spot;Mice (Ordinals);MICE
+Bitget;spot;Highstreet;HIGH
+Bitget;spot;Sakai Vault;SAKAI
+Bitget;spot;Mintlayer;ML
+Bitget;spot;Akropolis;AKRO
+Bitget;spot;ARPA;ARPA
+Bitget;spot;Dusk;DUSK
+Bitget;spot;Grok;GROK
+Bitget;spot;xPET tech;XPET
+Bitget;spot;Pyth Network;PYTH
+Bitget;spot;DMAIL Network;DMAIL
+Bitget;spot;CONUN;CYCON
+Bitget;spot;Golem;GLM
+Bitget;spot;Jito;JTO
+Bitget;spot;Big Time;BIGTIME
+Bitget;spot;Telos;TLOS
+Bitget;spot;VoluMint;VMINT
+Bitget;spot;Uniswap;UNI
+Bitget;spot;ZetaChain;ZETA
+Bitget;spot;Immutable;IMX
+Bitget;spot;Ordiswap;ORDS
+Bitget;spot;Band Protocol;BAND
+Bitget;spot;Silly Dragon;SILLY
+Bitget;spot;Baby Doge Coin;BABYDOGE
+Bitget;spot;Analysoor;ZERO
+Bitget;spot;Baby Grok;BABYGROK
+Bitget;spot;Radworks;RAD
+Bitget;spot;Crypto Asset Governance Alliance;CAGA
+Bitget;spot;OAX;OAX
+Bitget;spot;Artrade;ATR
+Bitget;spot;Ronin;RON
+Bitget;spot;Waves;WAVES
+Bitget;spot;Meson Network;MSN
+Bitget;spot;MAP Protocol;MAPO
+Bitget;spot;XANA;XETA
+Bitget;spot;Decentraland;MANA
+Bitget;spot;Beam;BEAM
+Bitget;spot;The Sandbox;SAND
+Bitget;spot;Flamingo;FLM
+Bitget;spot;RichQUACK.com;QUACK
+Bitget;spot;HyperGPT;HGPT
+Bitget;spot;IOST;IOST
+Bitstamp;spot;Bitcoin;BTC
+Bitstamp;spot;Ethereum;ETH
+Bitstamp;spot;XRP;XRP
+Bitstamp;spot;Tether USDt;USDT
+Bitstamp;spot;Solana;SOL
+Bitstamp;spot;USDC;USDC
+Bitstamp;spot;Bitcoin Cash;BCH
+Bitstamp;spot;Dogecoin;DOGE
+Bitstamp;spot;Litecoin;LTC
+Bitstamp;spot;PepePAD;PEPE
+Bitstamp;spot;Chainlink;LINK
+Bitstamp;spot;Avalanche;AVAX
+Bitstamp;spot;Shiba Inu;SHIB
+Bitstamp;spot;Pepe;PEPE
+Bitstamp;spot;Gala;GALA
+Bitstamp;spot;Hedera;HBAR
+Bitstamp;spot;Cardano;ADA
+Bitstamp;spot;Stellar;XLM
+Bitstamp;spot;Polkadot;DOT
+Bitstamp;spot;Polygon;MATIC
+Bitstamp;spot;Sui;SUI
+Bitstamp;spot;Flare;FLR
+Bitstamp;spot;Algorand;ALGO
+Bitstamp;spot;Fantom;FTM
+Bitstamp;spot;Uniswap;UNI
+Bitstamp;spot;NEAR Protocol;NEAR
+Bitstamp;spot;Fetch.ai;FET
+Bitstamp;spot;Chiliz;CHZ
+Bitstamp;spot;LimeWire;LMWR
+Bitstamp;spot;Casper;CSPR
+Bitstamp;spot;The Sandbox;SAND
+Bitstamp;spot;The Graph;GRT
+Bitstamp;spot;Songbird;SGB
+Bitstamp;spot;OriginTrail;TRAC
+Bitstamp;spot;Render;RNDR
+Bitstamp;spot;Aave;AAVE
+Bitstamp;spot;Maker;MKR
+Bitstamp;spot;Veloce;VEXT
+Bitstamp;spot;Audius;AUDIO
+Bitstamp;spot;Axie Infinity;AXS
+Bitstamp;spot;Compound;COMP
+Bitstamp;spot;Injective;INJ
+Bitstamp;spot;Curve DAO Token;CRV
+Bitstamp;spot;Amp;AMP
+Bitstamp;spot;ApeCoin;APE
+Bitstamp;spot;Smooth Love Potion;SLP
+Bitstamp;spot;Synthetix;SNX
+Bitstamp;spot;Cartesi;CTSI
+Bitstamp;spot;Immutable;IMX
+Bitstamp;spot;0x Protocol;ZRX
+Bitstamp;spot;SushiSwap;SUSHI
+Bitstamp;spot;Wecan Group;WECAN
+Bitstamp;spot;Decentraland;MANA
+Bitstamp;spot;Dai;DAI
+Bitstamp;spot;SKALE;SKL
+Bitstamp;spot;Storj;STORJ
+Bitstamp;spot;Basic Attention Token;BAT
+Bitstamp;spot;Blur;BLUR
+Bitstamp;spot;Rally;RLY
+Bitstamp;spot;Loopring;LRC
+Bitstamp;spot;Nexo;NEXO
+Bitstamp;spot;Enjin Coin;ENJ
+Bitstamp;spot;Kyber Network Crystal v2;KNC
+Bitstamp;spot;yearn.finance;YFI
+Bitstamp;spot;EURC;EUROC
+Bitstamp;spot;dYdX (ethDYDX);DYDX
+Bitstamp;spot;Maple;MPL
+Bitstamp;spot;1inch Network;1INCH
+Bitstamp;spot;UMA;UMA
+Bitstamp;spot;VNX Euro;VEUR
+Bitstamp;spot;Stella;ALPHA
+Bitstamp;spot;Aragon;ANT
+Bitstamp;spot;Ethereum Name Service;ENS
+Bitstamp;spot;Radworks;RAD
+Bitstamp;spot;Tether EURt;EURt
+Bitstamp;spot;VNX Swiss Franc;VCHF
+Bitstamp;spot;PayPal USD;PYUSD
+Bitstamp;spot;Gemini Dollar;GUSD
+Bitstamp;spot;Perpetual Protocol;PERP
+Bitstamp;spot;Wrapped Bitcoin;WBTC
+Bitstamp;spot;Convex Finance;CVX
+Bitstamp;spot;Gods Unchained;GODS
+Bitstamp;spot;Vega Protocol;VEGA
+Bitstamp;spot;Band Protocol;BAND
+Bitstamp;spot;Lido DAO;LDO
+Bybit;spot;Bitcoin;BTC
+Bybit;spot;Ethereum;ETH
+Bybit;spot;Solana;SOL
+Bybit;spot;XRP;XRP
+Bybit;spot;Lido Staked ETH;stETH
+Bybit;spot;USDC;USDC
+Bybit;spot;Dogecoin;DOGE
+Bybit;spot;Pepe;PEPE
+Bybit;spot;Mantle;MNT
+Bybit;spot;ApeX Protocol;APEX
+Bybit;spot;Ondo;ONDO
+Bybit;spot;Optimism;OP
+Bybit;spot;NEAR Protocol;NEAR
+Bybit;spot;Toncoin;TON
+Bybit;spot;Polygon;MATIC
+Bybit;spot;Polkadot;DOT
+Bybit;spot;Ethena;ENA
+Bybit;spot;Arbitrum;ARB
+Bybit;spot;Cardano;ADA
+Bybit;spot;Starknet;STRK
+Bybit;spot;BNB;BNB
+Bybit;spot;Aptos;APT
+Bybit;spot;Brett;BRETT
+Bybit;spot;Litecoin;LTC
+Bybit;spot;Avalanche;AVAX
+Bybit;spot;Cosmos;ATOM
+Bybit;spot;Hedera;HBAR
+Bybit;spot;Wormhole;W
+Bybit;spot;Internet Computer;ICP
+Bybit;spot;Shiba Inu;SHIB
+Bybit;spot;Bonk;BONK
+Bybit;spot;Chainlink;LINK
+Bybit;spot;Bitcoin Cash;BCH
+Bybit;spot;Gala;GALA
+Bybit;spot;Sui;SUI
+Bybit;spot;Fantom;FTM
+Bybit;spot;Arweave;AR
+Bybit;spot;Fetch.ai;FET
+Bybit;spot;EOS;EOS
+Bybit;spot;Jupiter;JUP
+Bybit;spot;Algorand;ALGO
+Bybit;spot;ORDI;ORDI
+Bybit;spot;TRON;TRX
+Bybit;spot;Sei;SEI
+Bybit;spot;ether.fi;ETHFI
+Bybit;spot;ZetaChain;ZETA
+Bybit;spot;Stacks;STX
+Bybit;spot;Lido DAO;LDO
+Bybit;spot;Celestia;TIA
+Bybit;spot;Worldcoin;WLD
+Bybit;spot;Degen;DEGEN
+Bybit;spot;SingularityNET;AGIX
+Bybit;spot;Jito;JTO
+Bybit;spot;Filecoin;FIL
+Bybit;spot;Render;RNDR
+Bybit;spot;Arkham;ARKM
+Bybit;spot;Matr1x Fire;FIRE
+Bybit;spot;Ethereum Classic;ETC
+Bybit;spot;dYdX (ethDYDX);DYDX
+Bybit;spot;Kaspa;KAS
+Bybit;spot;Pyth Network;PYTH
+Bybit;spot;Mask Network;MASK
+Bybit;spot;Memecoin;MEME
+Bybit;spot;Injective;INJ
+Bybit;spot;dogwifhat;WIF
+Bybit;spot;Core;CORE
+Bybit;spot;ApeCoin;APE
+Bybit;spot;THORChain;RUNE
+Bybit;spot;Uniswap;UNI
+Bybit;spot;Theta Network;THETA
+Bybit;spot;The Graph;GRT
+Bybit;spot;The Sandbox;SAND
+Bybit;spot;Blur;BLUR
+Bybit;spot;BOOK OF MEME;BOME
+Bybit;spot;WeWay;WWY
+Bybit;spot;FLOKI;FLOKI
+Bybit;spot;Myro;MYRO
+Bybit;spot;Manta Network;MANTA
+Bybit;spot;Ethereum Name Service;ENS
+Bybit;spot;Aave;AAVE
+Bybit;spot;Zignaly;ZIG
+Bybit;spot;Merlin Chain;MERL
+Bybit;spot;cat in a dogs world;MEW
+Bybit;spot;Polyhedra Network;ZK
+Bybit;spot;Aevo;AEVO
+Bybit;spot;Apeiron;APRS
+Bybit;spot;Heroes of Mavia;MAVIA
+Bybit;spot;Masa;MASA
+Bybit;spot;Tensor;TNSR
+Bybit;spot;Pendle;PENDLE
+Bybit;spot;Chiliz;CHZ
+Bybit;spot;Immutable;IMX
+Bybit;spot;tomiNet;TOMI
+Bybit;spot;Parcl;PRCL
+Bybit;spot;Safe;SAFE
+Bybit;spot;JasmyCoin;JASMY
+Bybit;spot;Vita Inu;VINU
+Bybit;spot;Stellar;XLM
+Bybit;spot;Tether USDt;USDT
+Bybit;spot;SushiSwap;SUSHI
+Bybit;spot;Altlayer;ALT
+Bybit;spot;Velo;VELO
+Bybit;spot;Waves;WAVES
+Bybit;spot;Kamino Finance;KMNO
+Bybit;spot;The Root Network;ROOT
+Bybit;spot;TokenFi;TOKEN
+Bybit;spot;Helium;HNT
+Bybit;spot;Dai;DAI
+Bybit;spot;Flow;FLOW
+Bybit;spot;ssv.network;SSV
+Bybit;spot;Foxy;FOXY
+Bybit;spot;Curve DAO Token;CRV
+Bybit;spot;Hashflow;HFT
+Bybit;spot;Axie Infinity;AXS
+Bybit;spot;Beam;BEAM
+Bybit;spot;GMT;GMT
+Bybit;spot;Nakamoto Games;NAKA
+Bybit;spot;Flare;FLR
+Bybit;spot;Xai;XAI
+Bybit;spot;PLANET;PLANET
+Bybit;spot;Decentraland;MANA
+Bybit;spot;rats (Ordinals);rats
+Bybit;spot;Celsius;CEL
+Bybit;spot;Venom;VENOM
+Bybit;spot;Maker;MKR
+Bybit;spot;Neon EVM;NEON
+Bybit;spot;Compound;COMP
+Bybit;spot;Wen;WEN
+Bybit;spot;Synthetix;SNX
+Bybit;spot;1inch Network;1INCH
+Bybit;spot;Milady Meme Coin;LADYS
+Bybit;spot;QORPO WORLD;QORPO
+Bybit;spot;Quant;QNT
+Bybit;spot;Echelon Prime;PRIME
+Bybit;spot;Sologenic;SOLO
+Bybit;spot;Wrapped Bitcoin;WBTC
+Bybit;spot;Ethena USDe;USDE
+Bybit;spot;SPACE ID;ID
+Bybit;spot;Terra Classic;LUNC
+Bybit;spot;Trust Wallet Token;TWT
+Bybit;spot;Fluence;FLT
+Bybit;spot;Clearpool;CPOOL
+Bybit;spot;Zentry;ZENT
+Bybit;spot;Fenerbahçe Token;FB
+Bybit;spot;PancakeSwap;CAKE
+Bybit;spot;Delysium;AGI
+Bybit;spot;MultiversX;EGLD
+Bybit;spot;DMAIL Network;DMAIL
+Bybit;spot;Mantle Staked Ether;METH
+Bybit;spot;CyberConnect;CYBER
+Bybit;spot;Farcana;FAR
+Bybit;spot;Portal;PORTAL
+Bybit;spot;Rainmaker Games;RAIN
+Bybit;spot;Casper;CSPR
+Bybit;spot;Axelar;AXL
+Bybit;spot;Mina;MINA
+Bybit;spot;Oasis;ROSE
+Bybit;spot;GUMMY;GUMMY
+Bybit;spot;Verasity;VRA
+Bybit;spot;XDC Network;XDC
+Bybit;spot;Galxe;GAL
+Bybit;spot;Celo;CELO
+Bybit;spot;VaporFund;VPR
+Bybit;spot;SpartaDex;SPARTA
+Bybit;spot;Cosplay Token;COT
+Bybit;spot;Eesee;ESE
+Bybit;spot;Terra;LUNA
+Bybit;spot;Planet Mojo;MOJO
+Bybit;spot;Flappymoonbird;FMB
+Bybit;spot;Ankr;ANKR
+Bybit;spot;LeverFi;LEVER
+Bybit;spot;Rebase GG;IRL
+Bybit;spot;Treasure;MAGIC
+Bybit;spot;Coq Inu;COQ
+Bybit;spot;Shrapnel;SHRAP
+Bybit;spot;Tezos;XTZ
+Bybit;spot;SATS (Ordinals);SATS
+Bybit;spot;5ire;5IRE
+Bybit;spot;yearn.finance;YFI
+Bybit;spot;Myria;MYRIA
+Bybit;spot;Entangle;NGL
+Bybit;spot;FTX Token;FTT
+Bybit;spot;Zilliqa;ZIL
+Bybit;spot;Pundi X PURSE;PURSE
+Bybit;spot;Alchemy Pay;ACH
+Bybit;spot;LightLink;LL
+Bybit;spot;Access Protocol;ACS
+Bybit;spot;Nibiru Chain;NIBI
+Bybit;spot;Boba Network;BOBA
+Bybit;spot;Siacoin;SC
+Bybit;spot;Dymension;DYM
+Bybit;spot;EthereumPoW;ETHW
+Bybit;spot;0x Protocol;ZRX
+Bybit;spot;ChainGPT;CGPT
+Bybit;spot;AIOZ Network;AIOZ
+Bybit;spot;Fame MMA;FAME
+Bybit;spot;Vertex Protocol;VRTX
+Bybit;spot;EGO;EGO
+Bybit;spot;GMX;GMX
+Bybit;spot;ZKFair;ZKF
+Coinbase;spot;Bitcoin;BTC
+Coinbase;spot;Ethereum;ETH
+Coinbase;spot;Solana;SOL
+Coinbase;spot;Tether USDt;USDT
+Coinbase;spot;Dogecoin;DOGE
+Coinbase;spot;Shiba Inu;SHIB
+Coinbase;spot;Bonk;BONK
+Coinbase;spot;XRP;XRP
+Coinbase;spot;Avalanche;AVAX
+Coinbase;spot;Optimism;OP
+Coinbase;spot;Render;RNDR
+Coinbase;spot;Fetch.ai;FET
+Coinbase;spot;Stacks;STX
+Coinbase;spot;Hedera;HBAR
+Coinbase;spot;Ondo;ONDO
+Coinbase;spot;Chainlink;LINK
+Coinbase;spot;Aerodrome Finance;AERO
+Coinbase;spot;Litecoin;LTC
+Coinbase;spot;NEAR Protocol;NEAR
+Coinbase;spot;Polkadot;DOT
+Coinbase;spot;Bitcoin Cash;BCH
+Coinbase;spot;Jito;JTO
+Coinbase;spot;Sei;SEI
+Coinbase;spot;Cardano;ADA
+Coinbase;spot;Internet Computer;ICP
+Coinbase;spot;USDC;USDC
+Coinbase;spot;Sui;SUI
+Coinbase;spot;Aptos;APT
+Coinbase;spot;JasmyCoin;JASMY
+Coinbase;spot;Injective;INJ
+Coinbase;spot;Stellar;XLM
+Coinbase;spot;Celestia;TIA
+Coinbase;spot;Arbitrum;ARB
+Coinbase;spot;Polygon;MATIC
+Coinbase;spot;Ethereum Classic;ETC
+Coinbase;spot;Cosmos;ATOM
+Coinbase;spot;Lido DAO;LDO
+Coinbase;spot;Filecoin;FIL
+Coinbase;spot;ZetaChain;ZETA
+Coinbase;spot;Amp;AMP
+Coinbase;spot;Immutable;IMX
+Coinbase;spot;Goldfinch;GFI
+Coinbase;spot;Uniswap;UNI
+Coinbase;spot;SKALE;SKL
+Coinbase;spot;The Graph;GRT
+Coinbase;spot;Safe;SAFE
+Coinbase;spot;Algorand;ALGO
+Coinbase;spot;SushiSwap;SUSHI
+Coinbase;spot;Helium;HNT
+Coinbase;spot;Maker;MKR
+Coinbase;spot;VeChain;VET
+Coinbase;spot;Wrapped Bitcoin;WBTC
+Coinbase;spot;AIOZ Network;AIOZ
+Coinbase;spot;Velodrome Finance;VELO
+Coinbase;spot;Aave;AAVE
+Coinbase;spot;Arcblock;ABT
+Coinbase;spot;Helium Mobile;MOBILE
+Coinbase;spot;Tellor;TRB
+Coinbase;spot;Echelon Prime;PRIME
+Coinbase;spot;Propy;PRO
+Coinbase;spot;Ocean Protocol;OCEAN
+Coinbase;spot;Harvest Finance;FARM
+Coinbase;spot;Ankr;ANKR
+Coinbase;spot;Cronos;CRO
+Coinbase;spot;Quant;QNT
+Coinbase;spot;Aleph.im;ALEPH
+Coinbase;spot;Alchemy Pay;ACH
+Coinbase;spot;Akash Network;AKT
+Coinbase;spot;SuperVerse;SUPER
+Coinbase;spot;Tensor;TNSR
+Coinbase;spot;Ethereum Name Service;ENS
+Coinbase;spot;ApeCoin;APE
+Coinbase;spot;Big Time;BIGTIME
+Coinbase;spot;Axelar;AXL
+Coinbase;spot;Hashflow;HFT
+Coinbase;spot;Arkham;ARKM
+Coinbase;spot;Coinbase Wrapped Staked ETH;cbETH
+Coinbase;spot;Loopring;LRC
+Coinbase;spot;Flare;FLR
+Coinbase;spot;Dai;DAI
+Coinbase;spot;Tezos;XTZ
+Coinbase;spot;Starknet;STRK
+Coinbase;spot;Oasis;ROSE
+Coinbase;spot;Blur;BLUR
+Coinbase;spot;yearn.finance;YFI
+Coinbase;spot;Suku;SUKU
+Coinbase;spot;EOS;EOS
+Coinbase;spot;MATH;MATH
+Coinbase;spot;Braintrust;BTRST
+Coinbase;spot;TrueFi;TRU
+Coinbase;spot;OriginTrail;TRAC
+Coinbase;spot;The Sandbox;SAND
+Coinbase;spot;Decentraland;MANA
+Coinbase;spot;COTI;COTI
+Coinbase;spot;Ribbon Finance;RBN
+Coinbase;spot;LCX;LCX
+Coinbase;spot;Chiliz;CHZ
+Coinbase;spot;Neon EVM;NEON
+Coinbase;spot;Omni Network;OMNI
+Coinbase;spot;Mina;MINA
+Coinbase;spot;0x Protocol;ZRX
+Coinbase;spot;Highstreet;HIGH
+Coinbase;spot;Synthetix;SNX
+Coinbase;spot;Pangolin;PNG
+Coinbase;spot;Golem;GLM
+Coinbase;spot;Vara Network;VARA
+Coinbase;spot;Osmosis;OSMO
+Coinbase;spot;DIMO;DIMO
+Coinbase;spot;Orca;ORCA
+Coinbase;spot;Livepeer;LPT
+Coinbase;spot;KARRAT;KARRAT
+Coinbase;spot;Seamless;SEAM
+Coinbase;spot;Curve DAO Token;CRV
+Coinbase;spot;Synapse;SYN
+Coinbase;spot;Civic;CVC
+Coinbase;spot;Compound;COMP
+Coinbase;spot;Green Satoshi Token (SOL);GST
+Coinbase;spot;Threshold;T
+Coinbase;spot;Forta;FORT
+Coinbase;spot;Shadow Token;SHDW
+Coinbase;spot;Polkastarter;POLS
+Coinbase;spot;Orion;ORN
+Coinbase;spot;API3;API3
+Coinbase;spot;Celo;CGLD
+Coinbase;spot;Wrapped Ampleforth;WAMPL
+Coinbase;spot;MultiversX;EGLD
+Coinbase;spot;SwftCoin;SWFTC
+Coinbase;spot;Dypius [Old];DYP
+Coinbase;spot;EURC;EUROC
+Coinbase;spot;Aventus;AVT
+Coinbase;spot;Metis;METIS
+Coinbase;spot;Storj;STORJ
+Coinbase;spot;Maple;MPL
+Coinbase;spot;Measurable Data Token;MDT
+Coinbase;spot;CLV;CLV
+Coinbase;spot;Onyxcoin;XCN
+Coinbase;spot;Flow;FLOW
+Coinbase;spot;GMT;GMT
+Coinbase;spot;RARI;RARI
+Coinbase;spot;Decentralized Social;DESO
+Coinbase;spot;Zcash;ZEC
+Coinbase;spot;Illuvium;ILV
+Coinbase;spot;Galxe;GAL
+Coinbase;spot;Aurora;AURORA
+Coinbase;spot;Cartesi;CTSI
+Coinbase;spot;Kusama;KSM
+Coinbase;spot;1inch Network;1INCH
+Coinbase;spot;Vanar Chain;TVK
+Coinbase;spot;Spell Token;SPELL
+Coinbase;spot;Hivemapper;HONEY
+Coinbase;spot;XYO;XYO
+Coinbase;spot;Numeraire;NMR
+Coinbase;spot;Axie Infinity;AXS
+Coinbase;spot;district0x;DNT
+Coinbase;spot;Aavegotchi;GHST
+Coinbase;spot;Request;REQ
+Coinbase;spot;Shapeshift FOX Token;FOX
+Coinbase;spot;Circuits of Value;COVAL
+Coinbase;spot;Pundi X (New);PUNDIX
+Coinbase;spot;Mask Network;MASK
+Coinbase;spot;HOPR;HOPR
+Coinbase;spot;PolySwarm;NCT
+Coinbase;spot;PARSIQ;PRQ
+Coinbase;spot;Boba Network;BOBA
+Coinbase;spot;Media Network;MEDIA
+Coinbase;spot;Enzyme;MLN
+Coinbase;spot;Cryptex Finance;CTX
+Coinbase;spot;Liquity;LQTY
+Coinbase;spot;Gemini Dollar;GUSD
+Coinbase;spot;Assemble Protocol;ASM
+Coinbase;spot;Vulcan Forged (PYR);PYR
+Coinbase;spot;Marinade;MNDE
+Coinbase;spot;BENQI;QI
+Coinbase;spot;Bluzelle;BLZ
+Coinbase;spot;IoTeX;IOTX
+Coinbase;spot;Marinade Staked SOL;MSOL
+Coinbase;spot;Gitcoin;GTC
+Coinbase;spot;Gods Unchained;GODS
+Coinbase;spot;VeThor Token;VTHO
+Coinbase;spot;Enjin Coin;ENJ
+Coinbase;spot;Orchid;OXT
+Coinbase;spot;Biconomy;BICO
+Coinbase;spot;iExec RLC;RLC
+Coinbase;spot;Index Cooperative;INDEX
+Coinbase;spot;UMA;UMA
+Coinbase;spot;Dash;DASH
+Coinbase;spot;AirSwap;AST
+Coinbase;spot;Basic Attention Token;BAT
+Coinbase;spot;Sperax;SPA
+Coinbase;spot;Celer Network;CELR
+Coinbase;spot;Rocket Pool;RPL
+Coinbase;spot;Badger DAO;BADGER
+Coinbase;spot;NKN;NKN
+Coinbase;spot;Alchemix;ALCX
+Coinbase;spot;Audius;AUDIO
+Coinbase;spot;Horizen;ZEN
+Coinbase;spot;Perpetual Protocol;PERP
+Coinbase;spot;Metal DAO;MTL
+Coinbase;spot;Bonfida;FIDA
+Coinbase;spot;Inverse Finance;INV
+Crypto.com;spot;Ethereum;ETH
+Crypto.com;spot;Bitcoin;BTC
+Crypto.com;spot;Solana;SOL
+Crypto.com;spot;Cronos;CRO
+Crypto.com;spot;Dogecoin;DOGE
+Crypto.com;spot;Tether USDt;USDT
+Crypto.com;spot;Avalanche;AVAX
+Crypto.com;spot;Cardano;ADA
+Crypto.com;spot;XRP;XRP
+Crypto.com;spot;Shiba Inu;SHIB
+Crypto.com;spot;Polkadot;DOT
+Crypto.com;spot;Fetch.ai;FET
+Crypto.com;spot;Cosmos;ATOM
+Crypto.com;spot;Polygon;MATIC
+Crypto.com;spot;Litecoin;LTC
+Crypto.com;spot;dogwifhat;WIF
+Crypto.com;spot;Chainlink;LINK
+Crypto.com;spot;Gala;GALA
+Crypto.com;spot;Pepe;PEPE
+Crypto.com;spot;Hedera;HBAR
+Crypto.com;spot;Aave;AAVE
+Crypto.com;spot;NEAR Protocol;NEAR
+Crypto.com;spot;MANEKI;MANEKI
+Crypto.com;spot;Bitcoin Cash;BCH
+Crypto.com;spot;Render;RNDR
+Crypto.com;spot;Fantom;FTM
+Crypto.com;spot;crow with knife;CAW
+Crypto.com;spot;Bonk;BONK
+Crypto.com;spot;Optimism;OP
+Crypto.com;spot;Jupiter;JUP
+Crypto.com;spot;Stellar;XLM
+Crypto.com;spot;VVS Finance;VVS
+Crypto.com;spot;Arbitrum;ARB
+Crypto.com;spot;Astar;ASTR
+Crypto.com;spot;Wormhole;W
+Crypto.com;spot;Milady Meme Coin;LADYS
+Crypto.com;spot;Uniswap;UNI
+Crypto.com;spot;Internet Computer;ICP
+Crypto.com;spot;JasmyCoin;JASMY
+Crypto.com;spot;Stacks;STX
+Crypto.com;spot;Sui;SUI
+Crypto.com;spot;Nervos Network;CKB
+Crypto.com;spot;PayPal USD;PYUSD
+Crypto.com;spot;Velo;VELO
+Crypto.com;spot;BOOK OF MEME;BOME
+Crypto.com;spot;CorgiAI;CORGIAI
+Crypto.com;spot;Arweave;AR
+Crypto.com;spot;Chainflip;FLIP
+Crypto.com;spot;Injective;INJ
+Crypto.com;spot;Ethena;ENA
+Crypto.com;spot;Tezos;XTZ
+Crypto.com;spot;Contentos;COS
+Crypto.com;spot;VeChain;VET
+Crypto.com;spot;Ethereum Classic;ETC
+Crypto.com;spot;The Graph;GRT
+Crypto.com;spot;Aptos;APT
+Crypto.com;spot;Pendle;PENDLE
+Crypto.com;spot;Ocean Protocol;OCEAN
+Crypto.com;spot;Reserve Rights;RSR
+Crypto.com;spot;ORDI;ORDI
+Crypto.com;spot;Ondo;ONDO
+Crypto.com;spot;Terra Classic;LUNC
+Crypto.com;spot;Crypto.com Staked ETH;CDCETH
+Crypto.com;spot;Akash Network;AKT
+Crypto.com;spot;EOS;EOS
+Crypto.com;spot;VeThor Token;VTHO
+Crypto.com;spot;Wrapped Bitcoin;WBTC
+Crypto.com;spot;Theta Network;THETA
+Crypto.com;spot;Worldcoin;WLD
+Crypto.com;spot;The Sandbox;SAND
+Crypto.com;spot;Filecoin;FIL
+Crypto.com;spot;Algorand;ALGO
+Crypto.com;spot;Quant;QNT
+Crypto.com;spot;Terra;LUNA2
+Crypto.com;spot;Lido DAO;LDO
+Crypto.com;spot;Zebec Network;ZBCN
+Crypto.com;spot;Fulcrom Finance;FUL
+Crypto.com;spot;SingularityNET;AGIX
+Crypto.com;spot;Flux;FLUX
+Crypto.com;spot;Crypterium;CRPT
+Crypto.com;spot;Amp;AMP
+Crypto.com;spot;AIOZ Network;AIOZ
+Crypto.com;spot;IoTeX;IOTX
+Crypto.com;spot;ApeCoin;APE
+Crypto.com;spot;THORChain;RUNE
+Crypto.com;spot;RARI;RARI
+Crypto.com;spot;Klaytn;KLAY
+Crypto.com;spot;Polymesh;POLYX
+Crypto.com;spot;Verasity;VRA
+Crypto.com;spot;OriginTrail;TRAC
+Crypto.com;spot;FLOKI;FLOKI
+Crypto.com;spot;Boson Protocol;BOSON
+Crypto.com;spot;Aevo;AEVO
+Crypto.com;spot;MultiversX;EGLD
+Crypto.com;spot;Arkham;ARKM
+Crypto.com;spot;Bone ShibaSwap;BONE
+Crypto.com;spot;Degen;DEGEN
+Crypto.com;spot;Axie Infinity;AXS
+Crypto.com;spot;Sei;SEI
+Crypto.com;spot;Helium;HNT
+Crypto.com;spot;Cartesi;CTSI
+Crypto.com;spot;Safe;SAFE
+Crypto.com;spot;Enjin Coin;ENJ
+Crypto.com;spot;Heroes of Mavia;MAVIA
+Crypto.com;spot;Harmony;ONE
+Crypto.com;spot;Casper;CSPR
+Crypto.com;spot;LimeWire;LMWR
+Crypto.com;spot;Neo;NEO
+Crypto.com;spot;Moonchain;MXC
+Crypto.com;spot;Dogelon Mars;ELON
+Crypto.com;spot;Alchemy Pay;ACH
+Crypto.com;spot;SubQuery Network;SQT
+Crypto.com;spot;Enzyme;MLN
+Crypto.com;spot;Neon EVM;NEON
+Crypto.com;spot;ZetaChain;ZETA
+Crypto.com;spot;Hashflow;HFT
+Crypto.com;spot;Maker;MKR
+Crypto.com;spot;Keep3rV1;KP3R
+Crypto.com;spot;Pyth Network;PYTH
+Crypto.com;spot;Axelar;AXL
+Crypto.com;spot;Kusama;KSM
+Crypto.com;spot;Immutable;IMX
+Crypto.com;spot;PAX Gold;PAXG
+Crypto.com;spot;Celer Network;CELR
+Crypto.com;spot;Helium Mobile;MOBILE
+Crypto.com;spot;Celestia;TIA
+Crypto.com;spot;Gekko HQ;GEKKO
+Crypto.com;spot;Illuvium;ILV
+Crypto.com;spot;Veno Finance;VNO
+Crypto.com;spot;Decentraland;MANA
+Crypto.com;spot;Starknet;STRK
+Crypto.com;spot;Basic Attention Token;BAT
+Crypto.com;spot;SuperVerse;SUPER
+Crypto.com;spot;Ankr;ANKR
+Crypto.com;spot;Harvest Finance;FARM
+Crypto.com;spot;1inch Network;1INCH
+Crypto.com;spot;Yield Guild Games;YGG
+Crypto.com;spot;XYO;XYO
+Crypto.com;spot;Flare;FLR
+Crypto.com;spot;Artificial Liquid Intelligence;ALI
+Crypto.com;spot;Metis;METIS
+Crypto.com;spot;Mask Network;MASK
+Crypto.com;spot;Loopring;LRC
+Crypto.com;spot;Ravencoin;RVN
+Crypto.com;spot;Band Protocol;BAND
+Crypto.com;spot;Theta Fuel;TFUEL
+Crypto.com;spot;Holo;HOT
+Crypto.com;spot;Gari Network;GARI
+Crypto.com;spot;Smooth Love Potion;SLP
+Crypto.com;spot;Covalent;CQT
+Crypto.com;spot;Orion;ORN
+Crypto.com;spot;Zilliqa;ZIL
+Crypto.com;spot;Tectonic;TONIC
+Crypto.com;spot;DigiByte;DGB
+Crypto.com;spot;CUDOS;CUDOS
+Crypto.com;spot;Tellor;TRB
+Crypto.com;spot;Chiliz;CHZ
+Crypto.com;spot;COTI;COTI
+Crypto.com;spot;ARPA;ARPA
+Crypto.com;spot;Flow;FLOW
+Crypto.com;spot;Nano;XNO
+Crypto.com;spot;Bluzelle;BLZ
+Crypto.com;spot;ICON;ICX
+Crypto.com;spot;BENQI;QI
+Crypto.com;spot;Curve DAO Token;CRV
+Crypto.com;spot;OpenLeverage;OLE
+Crypto.com;spot;Golem;GLM
+Crypto.com;spot;Kava;KAVA
+Crypto.com;spot;Siacoin;SC
+Crypto.com;spot;Numbers Protocol;NUM
+Crypto.com;spot;Treasure;MAGIC
+Crypto.com;spot;Vulcan Forged (PYR);PYR
+Crypto.com;spot;Osmosis;OSMO
+Crypto.com;spot;Livepeer;LPT
+Crypto.com;spot;Reef;REEF
+Crypto.com;spot;Cronos ID;CROID
+Crypto.com;spot;Compound;COMP
+Crypto.com;spot;Step App;FITFI
+Crypto.com;spot;TrueFi;TRU
+Crypto.com;spot;Smart Layer Network;SLN
+Crypto.com;spot;Moonriver;MOVR
+Crypto.com;spot;Dai;DAI
+Crypto.com;spot;Waves;WAVES
+Crypto.com;spot;SKALE;SKL
+Crypto.com;spot;SushiSwap;SUSHI
+Crypto.com;spot;Measurable Data Token;MDT
+Crypto.com;spot;DeRace;DERC
+Crypto.com;spot;Mina;MINA
+Crypto.com;spot;Pixels;PIXEL
+Crypto.com;spot;bitsCrunch;BCUT
+Crypto.com;spot;Voxies;VOXEL
+Crypto.com;spot;Wen;WEN
+Crypto.com;spot;Aurora;AURORA
+Crypto.com;spot;Ferro;FER
+Crypto.com;spot;Chromia;CHR
+Crypto.com;spot;Blur;BLUR
+Crypto.com;spot;Oraichain;ORAI
+Crypto.com;spot;WEMIX;WEMIX
+Crypto.com;spot;Liquid CRO;LCRO
+Crypto.com;spot;Shrapnel;SHRAP
+Gate.io;spot;Bitcoin;BTC
+Gate.io;spot;Ethereum;ETH
+Gate.io;spot;Pigcoin;PIGCOIN
+Gate.io;spot;Art de Finance;ADF
+Gate.io;spot;Farcana;FAR
+Gate.io;spot;Pepe;PEPE
+Gate.io;spot;Dogecoin;DOGE
+Gate.io;spot;KStarNFT;KNFT
+Gate.io;spot;Solana;SOL
+Gate.io;spot;NEAR Protocol;NEAR
+Gate.io;spot;Ethena;ENA
+Gate.io;spot;Ondo;ONDO
+Gate.io;spot;Internet Computer;ICP
+Gate.io;spot;dogwifhat;WIF
+Gate.io;spot;Hedera;HBAR
+Gate.io;spot;Zeebu;ZBU
+Gate.io;spot;Wormhole;W
+Gate.io;spot;Shiba Inu;SHIB
+Gate.io;spot;CatCoin;CATCOIN
+Gate.io;spot;XRP;XRP
+Gate.io;spot;Bonk;BONK
+Gate.io;spot;Popcat (SOL);POPCAT
+Gate.io;spot;ZetaChain;ZETA
+Gate.io;spot;BNB;BNB
+Gate.io;spot;Optimism;OP
+Gate.io;spot;Velo;VELO
+Gate.io;spot;Mythos;MYTH
+Gate.io;spot;Toncoin;TON
+Gate.io;spot;Stacks;STX
+Gate.io;spot;Bitcoin Cash;BCH
+Gate.io;spot;ether.fi;ETHFI
+Gate.io;spot;Filecoin;FIL
+Gate.io;spot;SingularityNET;AGIX
+Gate.io;spot;Jupiter;JUP
+Gate.io;spot;Arweave;AR
+Gate.io;spot;Kaspa;KAS
+Gate.io;spot;Ethereum Classic;ETC
+Gate.io;spot;FLOKI;FLOKI
+Gate.io;spot;Conflux;CFX
+Gate.io;spot;SLERF;SLERF
+Gate.io;spot;Nervos Network;CKB
+Gate.io;spot;cat in a dogs world;MEW
+Gate.io;spot;BOOK OF MEME;BOME
+Gate.io;spot;Fetch.ai;FET
+Gate.io;spot;ORDI;ORDI
+Gate.io;spot;Saga;SAGA
+Gate.io;spot;Render;RNDR
+Gate.io;spot;Fantom;FTM
+Gate.io;spot;Arbitrum;ARB
+Gate.io;spot;Voyager Token;VGX
+Gate.io;spot;Polkadot;DOT
+Gate.io;spot;Arkham;ARKM
+Gate.io;spot;JasmyCoin;JASMY
+Gate.io;spot;Polygon;MATIC
+Gate.io;spot;Bittensor;TAO
+Gate.io;spot;Cardano;ADA
+Gate.io;spot;Sui;SUI
+Gate.io;spot;Jito;JTO
+Gate.io;spot;Avalanche;AVAX
+Gate.io;spot;Monero;XMR
+Gate.io;spot;Astar;ASTR
+Gate.io;spot;Worldcoin;WLD
+Gate.io;spot;Tensor;TNSR
+Gate.io;spot;Starknet;STRK
+Gate.io;spot;Sei;SEI
+Gate.io;spot;Niza Global;NIZA
+Gate.io;spot;Algorand;ALGO
+Gate.io;spot;Injective;INJ
+Gate.io;spot;Berry;BERRY
+Gate.io;spot;Aptos;APT
+Gate.io;spot;Degen;DEGEN
+Gate.io;spot;Litecoin;LTC
+Gate.io;spot;rats (Ordinals);rats
+Gate.io;spot;Polyhedra Network;ZK
+Gate.io;spot;Gala;GALA
+Gate.io;spot;Chainlink;LINK
+Gate.io;spot;DOG•GO•TO•THE•MOON;DOG
+Gate.io;spot;Flare;FLR
+Gate.io;spot;Goldfinch;GFI
+Gate.io;spot;Safe;SAFE
+Gate.io;spot;Meson Network;MSN
+Gate.io;spot;EOS;EOS
+Gate.io;spot;MANEKI;MANEKI
+Gate.io;spot;ssv.network;SSV
+Gate.io;spot;Celestia;TIA
+Gate.io;spot;Ocean Protocol;OCEAN
+Gate.io;spot;Cosmos;ATOM
+Gate.io;spot;Wen;WEN
+Gate.io;spot;Theta Network;THETA
+Gate.io;spot;Highstreet;HIGH
+Gate.io;spot;Parcl;PRCL
+Gate.io;spot;Pendle;PENDLE
+Gate.io;spot;Grok;GROK
+Gate.io;spot;GateToken;GT
+Gate.io;spot;Yield Guild Games;YGG
+Gate.io;spot;Helium;HNT
+Gate.io;spot;Brett;BRETT
+Gate.io;spot;Altlayer;ALT
+Gate.io;spot;FTX Token;FTT
+Gate.io;spot;Memecoin;MEME
+Gate.io;spot;Flow;FLOW
+Gate.io;spot;Chiliz;CHZ
+Gate.io;spot;Renzo;REZ
+Gate.io;spot;Multibit;MUBI
+Gate.io;spot;Blur;BLUR
+Gate.io;spot;Synthetix;SNX
+Gate.io;spot;Abyss World;AWT
+Gate.io;spot;ApeCoin;APE
+Gate.io;spot;Akash Network;AKT
+Gate.io;spot;Apu Apustaja;APU
+Gate.io;spot;Alchemy Pay;ACH
+Gate.io;spot;dYdX (ethDYDX);DYDX
+Gate.io;spot;Uniswap;UNI
+Gate.io;spot;Omni Network;OMNI
+Gate.io;spot;Aerodrome Finance;AERO
+Gate.io;spot;Altura;ALU
+Gate.io;spot;Gomining;GOMINING
+Gate.io;spot;XCAD Network;XCAD
+Gate.io;spot;Radix;XRD
+Gate.io;spot;Mantle;MNT
+Gate.io;spot;Merlin Chain;MERL
+Gate.io;spot;SATS (Ordinals);SATS
+Gate.io;spot;Terra;LUNA
+Gate.io;spot;Core;CORE
+Gate.io;spot;Venom;VENOM
+Gate.io;spot;Pyth Network;PYTH
+Gate.io;spot;SPACE ID;ID
+Gate.io;spot;Ordiswap;ORDS
+Gate.io;spot;BlackCardCoin;BCCOIN
+Gate.io;spot;Myro;MYRO
+Gate.io;spot;TRON;TRX
+Gate.io;spot;Bitcoin SV;BSV
+Gate.io;spot;Manta Network;MANTA
+Gate.io;spot;Fluence;FLT
+Gate.io;spot;Telos;TLOS
+Gate.io;spot;MEMETOON;MEMETOON
+Gate.io;spot;USDC;USDC
+Gate.io;spot;Casper;CSPR
+Gate.io;spot;Heroes of Mavia;MAVIA
+Gate.io;spot;TokenFi;TOKEN
+Gate.io;spot;Liquity;LQTY
+Gate.io;spot;Neon EVM;NEON
+Gate.io;spot;Serenity Shield;SERSH
+Gate.io;spot;Cronos;CRO
+Gate.io;spot;Ontology;ONT
+Gate.io;spot;HyperGPT;HGPT
+Gate.io;spot;Solidus Ai Tech;AITECH
+Gate.io;spot;Pixels;PIXEL
+Gate.io;spot;Aevo;AEVO
+Gate.io;spot;Polymesh;POLYX
+Gate.io;spot;Galxe;GAL
+Gate.io;spot;Kamino Finance;KMNO
+Gate.io;spot;Zeus Network;ZEUS
+Gate.io;spot;NAVI Protocol;NAVX
+Gate.io;spot;Flux;FLUX
+Gate.io;spot;GOMDori;GOMD
+Gate.io;spot;LayerAI;LAI
+Gate.io;spot;Stellar;XLM
+Gate.io;spot;Celsius;CEL
+Gate.io;spot;NADA Protocol Token;NADA
+Gate.io;spot;Milady Meme Coin;LADYS
+Gate.io;spot;Foxy;FOXY
+Gate.io;spot;Parex;PRX
+Gate.io;spot;Civic;CVC
+Gate.io;spot;Statter Network;STT
+Gate.io;spot;iMe Lab;LIME
+Gate.io;spot;Clore.ai;CLORE
+Gate.io;spot;Ponke;PONKE
+Gate.io;spot;WAGMI Games;WAGMIGAMES
+Gate.io;spot;PAAL AI;PAAL
+Gate.io;spot;Delysium;AGI
+Gate.io;spot;Masa;MASA
+Gate.io;spot;DMAIL Network;DMAIL
+Gate.io;spot;LandX Finance;LNDX
+Gate.io;spot;tomiNet;TOMI
+Gate.io;spot;MANTRA;OM
+Gate.io;spot;Nakamoto Games;NAKA
+Gate.io;spot;Helium Mobile;MOBILE
+Gate.io;spot;SATOSHI•NAKAMOTO;SATOSHI
+Gate.io;spot;Neo;NEO
+Gate.io;spot;Cheelee;CHEEL
+Gate.io;spot;Tether USDt;USDT
+Gate.io;spot;Chia;XCH
+Gate.io;spot;Mask Network;MASK
+Gate.io;spot;Coq Inu;COQ
+Gate.io;spot;KARRAT;KARRAT
+Gate.io;spot;PaLM AI;PALM
+Gate.io;spot;The Sandbox;SAND
+Gate.io;spot;Echelon Prime;PRIME
+Gate.io;spot;Arcblock;ABT
+Gate.io;spot;MultiversX;EGLD
+Gate.io;spot;Baby Doge Coin;BabyDoge
+Gate.io;spot;VinuChain;VC
+Gate.io;spot;WEMIX;WEMIX
+Gate.io;spot;Bitcoin Cats;1CAT
+Gate.io;spot;CatGPT;CATGPT
+Gate.io;spot;Waves;WAVES
+Gate.io;spot;AIOZ Network;AIOZ
+Gate.io;spot;ALEX Lab;ALEX
+Gate.io;spot;Frontier;FRONT
+Gemini;spot;Bitcoin;BTC
+Gemini;spot;Ethereum;ETH
+Gemini;spot;Solana;SOL
+Gemini;spot;USDC;USDC
+Gemini;spot;Tether USDt;USDT
+Gemini;spot;Gemini Dollar;GUSD
+Gemini;spot;PAX Gold;PAXG
+Gemini;spot;Dogecoin;DOGE
+Gemini;spot;Pepe;PEPE
+Gemini;spot;XRP;XRP
+Gemini;spot;Polygon;MATIC
+Gemini;spot;Filecoin;FIL
+Gemini;spot;Bitcoin Cash;BCH
+Gemini;spot;Litecoin;LTC
+Gemini;spot;Chainlink;LINK
+Gemini;spot;SKALE;SKL
+Gemini;spot;Render;RNDR
+Gemini;spot;Shiba Inu;SHIB
+Gemini;spot;Amp;AMP
+Gemini;spot;Fetch.ai;FET
+Gemini;spot;Avalanche;AVAX
+Gemini;spot;Gala;GALA
+Gemini;spot;Fantom;FTM
+Gemini;spot;Dai;DAI
+Gemini;spot;Injective;INJ
+Gemini;spot;The Graph;GRT
+Gemini;spot;Cosmos;ATOM
+Gemini;spot;Helium;HNT
+Gemini;spot;Quant;QNT
+Gemini;spot;Ankr;ANKR
+Gemini;spot;Polkadot;DOT
+Gemini;spot;Immutable;IMX
+Gemini;spot;Axie Infinity;AXS
+Gemini;spot;Dogelon Mars;ELON
+Gemini;spot;Uniswap;UNI
+Gemini;spot;Zcash;ZEC
+Gemini;spot;Curve DAO Token;CRV
+Gemini;spot;ApeCoin;APE
+Gemini;spot;Aave;AAVE
+Gemini;spot;Tezos;XTZ
+Gemini;spot;Somnium Space Cubes;CUBE
+Gemini;spot;Maker;MKR
+Gemini;spot;Cryptex Finance;CTX
+Gemini;spot;Decentraland;MANA
+Gemini;spot;Samoyedcoin;SAMO
+Gemini;spot;Storj;STORJ
+Gemini;spot;The Sandbox;SAND
+Gemini;spot;Artificial Liquid Intelligence;ALI
+Gemini;spot;SushiSwap;SUSHI
+Gemini;spot;Loopring;LRC
+Gemini;spot;Synthetix;SNX
+Gemini;spot;Ren;REN
+Gemini;spot;Compound;COMP
+Gemini;spot;IoTeX;IOTX
+Gemini;spot;Lido DAO;LDO
+Gemini;spot;API3;API3
+Gemini;spot;Ethereum Name Service;ENS
+Gemini;spot;yearn.finance;YFI
+Gemini;spot;Orchid;OXT
+Gemini;spot;Basic Attention Token;BAT
+Gemini;spot;Terra Classic;LUNA
+Gemini;spot;Mask Network;MASK
+Gemini;spot;0x Protocol;ZRX
+Gemini;spot;Geojam Token;JAM
+Gemini;spot;Ethernity;ERN
+Gemini;spot;Chiliz;CHZ
+Gemini;spot;Galxe;GAL
+Gemini;spot;UMA;UMA
+Gemini;spot;Livepeer;LPT
+Gemini;spot;SuperRare;RARE
+Gemini;spot;GMT;GMT
+HTX;spot;Bitcoin;BTC
+HTX;spot;Solana;SOL
+HTX;spot;Ethena;ENA
+HTX;spot;Ethereum;ETH
+HTX;spot;Dogecoin;DOGE
+HTX;spot;USDC;USDC
+HTX;spot;BOOK OF MEME;BOME
+HTX;spot;HTX;HTX
+HTX;spot;ORDI;ORDI
+HTX;spot;ether.fi;ETHFI
+HTX;spot;XRP;XRP
+HTX;spot;Pepe;PEPE
+HTX;spot;Cardano;ADA
+HTX;spot;Core;CORE
+HTX;spot;FLOKI;FLOKI
+HTX;spot;Optimism;OP
+HTX;spot;Ethereum Classic;ETC
+HTX;spot;Aptos;APT
+HTX;spot;Litecoin;LTC
+HTX;spot;dogwifhat;WIF
+HTX;spot;Chainlink;LINK
+HTX;spot;SLERF;SLERF
+HTX;spot;Bitcoin Cash;BCH
+HTX;spot;Sui;SUI
+HTX;spot;BNB;BNB
+HTX;spot;Polkadot;DOT
+HTX;spot;Avalanche;AVAX
+HTX;spot;Filecoin;FIL
+HTX;spot;Starknet;STRK
+HTX;spot;Merlin Chain;MERL
+HTX;spot;Worldcoin;WLD
+HTX;spot;Polygon;MATIC
+HTX;spot;Saga;SAGA
+HTX;spot;Parcl;PRCL
+HTX;spot;Uniswap;UNI
+HTX;spot;Aevo;AEVO
+HTX;spot;Ondo;ONDO
+HTX;spot;Gala;GALA
+HTX;spot;SingularityNET;AGIX
+HTX;spot;THORChain;RUNE
+HTX;spot;Arbitrum;ARB
+HTX;spot;Tensor;TNSR
+HTX;spot;Flow;FLOW
+HTX;spot;Nervos Network;CKB
+HTX;spot;Toncoin;TON
+HTX;spot;Troll;TROLL
+HTX;spot;EOS;EOS
+HTX;spot;Cosmos;ATOM
+HTX;spot;GT Protocol;GTAI
+HTX;spot;Fetch.ai;FET
+HTX;spot;SKALE;SKL
+HTX;spot;Pixels;PIXEL
+HTX;spot;Dechat;DECHAT
+HTX;spot;Pyth Network;PYTH
+HTX;spot;SATS (Ordinals);SATS
+HTX;spot;ConstitutionDAO;PEOPLE
+HTX;spot;Degen;DEGEN
+HTX;spot;Safe;SAFE
+HTX;spot;TRON;TRX
+HTX;spot;Wen;WEN
+HTX;spot;Celestia;TIA
+HTX;spot;Elumia Crowns;ELU
+HTX;spot;Decentralized Social;DESO
+HTX;spot;Altlayer;ALT
+HTX;spot;Pendle;PENDLE
+HTX;spot;Shiba Inu;SHIB
+HTX;spot;NAVI Protocol;NAVX
+HTX;spot;The Sandbox;SAND
+HTX;spot;NEAR Protocol;NEAR
+HTX;spot;Bitcoin Cats;1CAT
+HTX;spot;Liquity;LQTY
+HTX;spot;Reef;REEF
+HTX;spot;Dusk;DUSK
+HTX;spot;Terra;LUNA
+HTX;spot;Sweat Economy;SWEAT
+HTX;spot;Blur;BLUR
+HTX;spot;Meson Network;MSN
+HTX;spot;IPVERSE;IPV
+HTX;spot;dYdX (ethDYDX);DYDX
+HTX;spot;Yield Guild Games;YGG
+HTX;spot;1inch Network;1INCH
+HTX;spot;Sei;SEI
+HTX;spot;Scallop;SCA
+HTX;spot;Sleepless AI;AI
+HTX;spot;MAP Protocol;MAPO
+HTX;spot;Bonk;BONK
+HTX;spot;Axie Infinity;AXS
+HTX;spot;Kyber Network Crystal v2;KNC
+HTX;spot;Omni Network;OMNI
+HTX;spot;PlayDapp;PDA
+HTX;spot;Playbux;PBUX
+HTX;spot;Zeus Network;ZEUS
+HTX;spot;SOMESING;SSG
+HTX;spot;Creditcoin;CTC
+HTX;spot;Frax Share;FXS
+HTX;spot;cat in a dogs world;MEW
+HTX;spot;NORMIE;NORMIE
+HTX;spot;Memecoin;MEME
+HTX;spot;Manta Network;MANTA
+HTX;spot;BakeryToken;BAKE
+HTX;spot;Bounce Token;AUCTION
+HTX;spot;Dai;DAI
+HTX;spot;Fantom;FTM
+HTX;spot;Ardor;ARDR
+HTX;spot;DIA;DIA
+HTX;spot;tomiNet;TOMI
+HTX;spot;Juice Finance;JUICE
+HTX;spot;Aave;AAVE
+HTX;spot;Curve DAO Token;CRV
+HTX;spot;beoble;BBL
+HTX;spot;Prisma Finance;PRISMA
+HTX;spot;Gala Music;MUSIC
+HTX;spot;CyberConnect;CYBER
+HTX;spot;Ocean Protocol;OCEAN
+HTX;spot;smolecoin;SMOLE
+HTX;spot;Maker;MKR
+HTX;spot;Pundu;PUNDU
+HTX;spot;BitTorrent (New);BTT
+HTX;spot;Waves;WAVES
+HTX;spot;DigiByte;DGB
+HTX;spot;Lido DAO;LDO
+HTX;spot;Coupon Assets;CA
+HTX;spot;Monero;XMR
+HTX;spot;FTX Token;FTT
+HTX;spot;The Root Network;ROOT
+HTX;spot;CLV;CLV
+HTX;spot;Civic;CVC
+HTX;spot;Mask Network;MASK
+HTX;spot;SMILEY;SMILEY
+HTX;spot;DOSE;DOSE
+HTX;spot;The Graph;GRT
+HTX;spot;Saros;SAROS
+HTX;spot;Livepeer;LPT
+HTX;spot;SushiSwap;SUSHI
+HTX;spot;Bitcoin SV;BSV
+HTX;spot;Treasure;MAGIC
+HTX;spot;Ren;REN
+HTX;spot;Theta Network;THETA
+HTX;spot;Ethereum Name Service;ENS
+HTX;spot;Myro;MYRO
+HTX;spot;Compound;COMP
+HTX;spot;Arweave;AR
+HTX;spot;ArbDoge AI;AIDOGE
+HTX;spot;analoS;ANALOS
+HTX;spot;ZKFair;ZKF
+HTX;spot;Mina;MINA
+HTX;spot;DeFiChain;DFI
+HTX;spot;DFI.Money;YFII
+HTX;spot;Celo Dollar;CUSD
+HTX;spot;Amulet;AMU
+HTX;spot;Viction;VIC
+HTX;spot;Chiliz;CHZ
+HTX;spot;ApeCoin;APE
+HTX;spot;Decentraland;MANA
+HTX;spot;Velo;VELO
+HTX;spot;Symbiosis;SIS
+HTX;spot;Statter Network;STT
+HTX;spot;Kusama;KSM
+HTX;spot;Solidus Ai Tech;AITECH
+HTX;spot;APENFT;NFT
+HTX;spot;GMX;GMX
+HTX;spot;aelf;ELF
+HTX;spot;Jito;JTO
+HTX;spot;JUST;JST
+HTX;spot;Ice Open Network;ICE
+HTX;spot;Hedera;HBAR
+HTX;spot;BRC20.com;COM
+HTX;spot;Sora;SORA
+HTX;spot;Adventure Gold;AGLD
+HTX;spot;Onyxcoin;XCN
+HTX;spot;Nakamoto Games;NAKA
+HTX;spot;Lovely Inu Finance;LOVELY
+HTX;spot;Immutable;IMX
+HTX;spot;Whales Market;WHALES
+HTX;spot;Qtum;QTUM
+HTX;spot;Synesis One;SNS
+HTX;spot;XDC Network;XDC
+HTX;spot;Animal Concerts;ANML
+HTX;spot;Ravencoin;RVN
+HTX;spot;INTOverse;TOX
+HTX;spot;Storj;STORJ
+HTX;spot;Tezos;XTZ
+HTX;spot;IOST;IOST
+HTX;spot;Zilliqa;ZIL
+HTX;spot;Beacon ETH;BETH
+HTX;spot;Blink Galaxy;GQ
+HTX;spot;Turbo;TURBO
+HTX;spot;0x Protocol;ZRX
+HTX;spot;Celo;CELO
+HTX;spot;eCash;XEC
+HTX;spot;Levana Protocol;LVN
+HTX;spot;UMA;UMA
+HTX;spot;Stellar;XLM
+HTX;spot;Axelar;WAXL
+HTX;spot;SwftCoin;SWFTC
+HTX;spot;XEN Crypto;XEN
+HTX;spot;Baby Doge Coin;BABYDOGE
+HTX;spot;Zuzalu Inu;ZUZALU
+HTX;spot;UniBot;UNIBOT
+HTX;spot;MANEKI;MANEKI
+Kraken;spot;Bitcoin;XBT
+Kraken;spot;Tether USDt;USDT
+Kraken;spot;Solana;SOL
+Kraken;spot;Ethereum;ETH
+Kraken;spot;Dogecoin;XDG
+Kraken;spot;USDC;USDC
+Kraken;spot;NEAR Protocol;NEAR
+Kraken;spot;Avalanche;AVAX
+Kraken;spot;XRP;XRP
+Kraken;spot;Pepe;PEPE
+Kraken;spot;Polkadot;DOT
+Kraken;spot;Chainlink;LINK
+Kraken;spot;Shiba Inu;SHIB
+Kraken;spot;Internet Computer;ICP
+Kraken;spot;Fetch.ai;FET
+Kraken;spot;Render;RNDR
+Kraken;spot;Monero;XMR
+Kraken;spot;Cardano;ADA
+Kraken;spot;Celestia;TIA
+Kraken;spot;Litecoin;LTC
+Kraken;spot;Filecoin;FIL
+Kraken;spot;Ocean Protocol;OCEAN
+Kraken;spot;Optimism;OP
+Kraken;spot;Stacks;STX
+Kraken;spot;Injective;INJ
+Kraken;spot;dogwifhat;WIF
+Kraken;spot;Polygon;MATIC
+Kraken;spot;Fantom;FTM
+Kraken;spot;Bitcoin Cash;BCH
+Kraken;spot;Cosmos;ATOM
+Kraken;spot;Lido DAO;LDO
+Kraken;spot;THORChain;RUNE
+Kraken;spot;Gala;GALA
+Kraken;spot;Ondo;ONDO
+Kraken;spot;Wrapped Bitcoin;WBTC
+Kraken;spot;Wormhole;W
+Kraken;spot;Sei;SEI
+Kraken;spot;Starknet;STRK
+Kraken;spot;Akash Network;AKT
+Kraken;spot;Jupiter;JUP
+Kraken;spot;Arbitrum;ARB
+Kraken;spot;Dai;DAI
+Kraken;spot;TRON;TRX
+Kraken;spot;The Graph;GRT
+Kraken;spot;Algorand;ALGO
+Kraken;spot;Bonk;BONK
+Kraken;spot;Sui;SUI
+Kraken;spot;Uniswap;UNI
+Kraken;spot;Helium;HNT
+Kraken;spot;Flare;FLR
+Kraken;spot;Immutable;IMX
+Kraken;spot;Stellar;XLM
+Kraken;spot;Quant;QNT
+Kraken;spot;Ethereum Classic;ETC
+Kraken;spot;Kusama;KSM
+Kraken;spot;Jito;JTO
+Kraken;spot;EOS;EOS
+Kraken;spot;Siacoin;SC
+Kraken;spot;Aptos;APT
+Kraken;spot;Tezos;XTZ
+Kraken;spot;Maker;MKR
+Kraken;spot;dYdX (ethDYDX);DYDX
+Kraken;spot;LimeWire;LMWR
+Kraken;spot;Aave;AAVE
+Kraken;spot;Synapse;SYN
+Kraken;spot;ApeCoin;APE
+Kraken;spot;Nodle;NODL
+Kraken;spot;Energy Web Token;EWT
+Kraken;spot;PAX Gold;PAXG
+Kraken;spot;Zcash;ZEC
+Kraken;spot;Mina;MINA
+Kraken;spot;Pyth Network;PYTH
+Kraken;spot;PayPal USD;PYUSD
+Kraken;spot;Ankr;ANKR
+Kraken;spot;Beam;BEAM
+Kraken;spot;Waves;WAVES
+Kraken;spot;Terra Classic;LUNA
+Kraken;spot;SuperVerse;SUPER
+Kraken;spot;Terra;LUNA2
+Kraken;spot;Nano;NANO
+Kraken;spot;Centrifuge;CFG
+Kraken;spot;Marinade Staked SOL;MSOL
+Kraken;spot;Synthetix;SNX
+Kraken;spot;Curve DAO Token;CRV
+Kraken;spot;JasmyCoin;JASMY
+Kraken;spot;LCX;LCX
+Kraken;spot;RARI;RARI
+Kraken;spot;Decentraland;MANA
+Kraken;spot;Yield Guild Games;YGG
+Kraken;spot;Keep Network;KEEP
+Kraken;spot;Flow;FLOW
+Kraken;spot;MultiversX;EGLD
+Kraken;spot;Harvest Finance;FARM
+Kraken;spot;Blur;BLUR
+Kraken;spot;Axelar;WAXL
+Kraken;spot;COTI;COTI
+Kraken;spot;Phala Network;PHA
+Kraken;spot;The Sandbox;SAND
+Kraken;spot;Compound;COMP
+Kraken;spot;Alchemy Pay;ACH
+Kraken;spot;Moonriver;MOVR
+Kraken;spot;Dymension;DYM
+Kraken;spot;Chiliz;CHZ
+Kraken;spot;1inch Network;1INCH
+Kraken;spot;Enjin Coin;ENJ
+Kraken;spot;Enzyme;MLN
+Kraken;spot;Basic Attention Token;BAT
+Kraken;spot;Moonbeam;GLMR
+Kraken;spot;SushiSwap;SUSHI
+Kraken;spot;Lisk;LSK
+Kraken;spot;Covalent;CQT
+Kraken;spot;r/CryptoCurrency Moons;MOON
+Kraken;spot;Qtum;QTUM
+Kraken;spot;0x Protocol;ZRX
+Kraken;spot;TrueFi;TRU
+Kraken;spot;Astar;ASTR
+Kraken;spot;Mango;MNGO
+Kraken;spot;Axie Infinity;AXS
+Kraken;spot;Star Atlas;ATLAS
+Kraken;spot;HydraDX;HDX
+Kraken;spot;Threshold;T
+Kraken;spot;Songbird;SGB
+Kraken;spot;Raydium;RAY
+Kraken;spot;iExec RLC;RLC
+Kraken;spot;Saber;SBR
+Kraken;spot;Gari Network;GARI
+Kraken;spot;Loopring;LRC
+Kraken;spot;yearn.finance;YFI
+Kraken;spot;WOO;WOO
+Kraken;spot;Secret;SCRT
+Kraken;spot;Serum;SRM
+Kraken;spot;Samoyedcoin;SAMO
+Kraken;spot;GMX;GMX
+Kraken;spot;OMG Network;OMG
+Kraken;spot;Keep3rV1;KP3R
+Kraken;spot;API3;API3
+Kraken;spot;ICON;ICX
+Kraken;spot;EthereumPoW;ETHW
+Kraken;spot;Kava;KAVA
+Kraken;spot;Galxe;GAL
+Kraken;spot;Vanar Chain;TVK
+Kraken;spot;Star Atlas DAO;POLIS
+Kraken;spot;Ethereum Name Service;ENS
+Kraken;spot;TerraClassicUSD;UST
+Kraken;spot;Mask Network;MASK
+Kraken;spot;Aavegotchi;GHST
+Kraken;spot;NYM;NYM
+Kraken;spot;Dash;DASH
+Kraken;spot;Altair;AIR
+Kraken;spot;BitTorrent (New);BTT
+Kraken;spot;Orchid;OXT
+Kraken;spot;Bonfida;FIDA
+Kraken;spot;Rocket Pool;RPL
+Kraken;spot;tBTC;TBTC
+Kraken;spot;Tether EURt;EURt
+Kraken;spot;Karura;KAR
+Kraken;spot;Frax Share;FXS
+Kraken;spot;Merit Circle;MC
+Kraken;spot;r/FortNiteBR Bricks;BRICK
+Kraken;spot;Hashflow;HFT
+Kraken;spot;Orca;ORCA
+Kraken;spot;Augur;REPV2
+Kraken;spot;Bluzelle;BLZ
+Kraken;spot;Marlin;POND
+Kraken;spot;Mirror Protocol;MIR
+Kraken;spot;Gnosis;GNO
+Kraken;spot;Green Satoshi Token (SOL);GST
+Kraken;spot;Chromia;CHR
+Kraken;spot;Onyxcoin;XCN
+Kraken;spot;Numeraire;NMR
+Kraken;spot;Spell Token;SPELL
+Kraken;spot;Moonchain;MXC
+Kraken;spot;Boba Network;BOBA
+Kraken;spot;Storj;STORJ
+Kraken;spot;Kin;KIN
+Kraken;spot;Balancer;BAL
+Kraken;spot;Ren;REN
+Kraken;spot;Acala Token;ACA
+Kraken;spot;KILT Protocol;KILT
+Kraken;spot;Band Protocol;BAND
+Kraken;spot;GMT;GMT
+Kraken;spot;Perpetual Protocol;PERP
+Kraken;spot;Cartesi;CTSI
+Kraken;spot;JUNO;JUNO
+Kraken;spot;Aragon;ANT
+Kraken;spot;Basilisk;BSX
+Kraken;spot;Origin Protocol;OGN
+Kraken;spot;Convex Finance;CVX
+Kraken;spot;GensoKishi Metaverse;MV
+Kraken;spot;Unifi Protocol DAO;UNFI
+Kraken;spot;Bifrost;BNC
+Kraken;spot;Civic;CVC
+Kraken;spot;BitDAO;BIT
+Kraken;spot;Biconomy;BICO
+Kraken;spot;Livepeer;LPT
+Kraken;spot;Kintsugi;KINT
+Kraken;spot;Coin98;C98
+Kraken;spot;Rubic;RBC
+Kraken;spot;Radworks;RAD
+Kraken;spot;Kyber Network Crystal v2;KNC
+Kucoin;spot;Bitcoin;BTC
+Kucoin;spot;Ethereum;ETH
+Kucoin;spot;Solana;SOL
+Kucoin;spot;Internet Computer;ICP
+Kucoin;spot;NEAR Protocol;NEAR
+Kucoin;spot;Pepe;PEPE
+Kucoin;spot;Dogecoin;DOGE
+Kucoin;spot;XRP;XRP
+Kucoin;spot;Shiba Inu;SHIB
+Kucoin;spot;Velo;VELO
+Kucoin;spot;Ondo;ONDO
+Kucoin;spot;Avalanche;AVAX
+Kucoin;spot;Hedera;HBAR
+Kucoin;spot;dogwifhat;WIF
+Kucoin;spot;Optimism;OP
+Kucoin;spot;Mask Network;MASK
+Kucoin;spot;Toncoin;TON
+Kucoin;spot;Ethena;ENA
+Kucoin;spot;BNB;BNB
+Kucoin;spot;Polkadot;DOT
+Kucoin;spot;Injective;INJ
+Kucoin;spot;Fantom;FTM
+Kucoin;spot;USDC;USDC
+Kucoin;spot;Cardano;ADA
+Kucoin;spot;Render;RNDR
+Kucoin;spot;Wormhole;W
+Kucoin;spot;Litecoin;LTC
+Kucoin;spot;Chainlink;LINK
+Kucoin;spot;SingularityNET;AGIX
+Kucoin;spot;Verasity;VRA
+Kucoin;spot;Bittensor;TAO
+Kucoin;spot;Bonk;BONK
+Kucoin;spot;Fetch.ai;FET
+Kucoin;spot;Kaspa;KAS
+Kucoin;spot;Matr1x Fire;FIRE
+Kucoin;spot;Polygon;MATIC
+Kucoin;spot;Algorand;ALGO
+Kucoin;spot;Cosmos;ATOM
+Kucoin;spot;Bitcoin Cash;BCH
+Kucoin;spot;Arweave;AR
+Kucoin;spot;Stacks;STX
+Kucoin;spot;tomiNet;TOMI
+Kucoin;spot;FLOKI;FLOKI
+Kucoin;spot;Arbitrum;ARB
+Kucoin;spot;Conflux;CFX
+Kucoin;spot;ether.fi;ETHFI
+Kucoin;spot;cat in a dogs world;MEW
+Kucoin;spot;Monero;XMR
+Kucoin;spot;ZetaChain;ZETA
+Kucoin;spot;JasmyCoin;JASMY
+Kucoin;spot;Meson Network;MSN
+Kucoin;spot;Filecoin;FIL
+Kucoin;spot;Safe;SAFE
+Kucoin;spot;EOS;EOS
+Kucoin;spot;Sui;SUI
+Kucoin;spot;THORChain;RUNE
+Kucoin;spot;Kamino Finance;KMNO
+Kucoin;spot;ORDI;ORDI
+Kucoin;spot;Tether USDt;USDT
+Kucoin;spot;Nervos Network;CKB
+Kucoin;spot;Polyhedra Network;ZK
+Kucoin;spot;Sei;SEI
+Kucoin;spot;BOOK OF MEME;BOME
+Kucoin;spot;Myro;MYRO
+Kucoin;spot;TRON;TRX
+Kucoin;spot;VeChain;VET
+Kucoin;spot;Starknet;STRK
+Kucoin;spot;Renzo;REZ
+Kucoin;spot;Uniswap;UNI
+Kucoin;spot;Merlin Chain;MERL
+Kucoin;spot;Akash Network;AKT
+Kucoin;spot;Theta Network;THETA
+Kucoin;spot;Aptos;APT
+Kucoin;spot;Celestia;TIA
+Kucoin;spot;LightLink;LL
+Kucoin;spot;Gala;GALAX
+Kucoin;spot;Nakamoto Games;NAKA
+Kucoin;spot;Venom;VENOM
+Kucoin;spot;Worldcoin;WLD
+Kucoin;spot;KuCoin Token;KCS
+Kucoin;spot;Terra Classic;LUNC
+Kucoin;spot;Jito;JTO
+Kucoin;spot;Aevo;AEVO
+Kucoin;spot;Radix;XRD
+Kucoin;spot;AIOZ Network;AIOZ
+Kucoin;spot;Tensor;TNSR
+Kucoin;spot;Telcoin;TEL
+Kucoin;spot;The Graph;GRT
+Kucoin;spot;NAVI Protocol;NAVX
+Kucoin;spot;Manta Network;MANTA
+Kucoin;spot;Seedify.fund;SFUND
+Kucoin;spot;ATOR Protocol;ATOR
+Kucoin;spot;Coq Inu;COQ
+Kucoin;spot;ApeCoin;APE
+Kucoin;spot;Flare;FLR
+Kucoin;spot;Jupiter;JUP
+Kucoin;spot;Oasis;ROSE
+Kucoin;spot;Telos;TLOS
+Kucoin;spot;TokenFi;TOKEN
+Kucoin;spot;Aleph Zero;AZERO
+Kucoin;spot;Pendle;PENDLE
+Kucoin;spot;FTX Token;FTT
+Kucoin;spot;Yield Guild Games;YGG
+Kucoin;spot;Cronos;CRO
+Kucoin;spot;Helium;HNT
+Kucoin;spot;Realio Network;RIO
+Kucoin;spot;Aerodrome Finance;AERO
+Kucoin;spot;Ethereum Classic;ETC
+Kucoin;spot;Clearpool;CPOOL
+Kucoin;spot;Stellar;XLM
+Kucoin;spot;Victoria VR;VR
+Kucoin;spot;Islamic Coin;ISLM
+Kucoin;spot;Pepe 2.0;PEPE2
+Kucoin;spot;Trias Token (New);TRIAS
+Kucoin;spot;Frontier;FRONT
+Kucoin;spot;Multibit;MUBI
+Kucoin;spot;Boba Network;BOBA
+Kucoin;spot;Heroes of Mavia;MAVIA
+Kucoin;spot;XDB CHAIN;XDB
+Kucoin;spot;Neo;NEO
+Kucoin;spot;Casper;CSPR
+Kucoin;spot;Omni Network;OMNI
+Kucoin;spot;Parcl;PRCL
+Kucoin;spot;GamerCoin;GHX
+Kucoin;spot;Eesee;ESE
+Kucoin;spot;LayerAI;LAI
+Kucoin;spot;Big Time;BIGTIME
+Kucoin;spot;Lido DAO;LDO
+Kucoin;spot;dYdX (ethDYDX);DYDX
+Kucoin;spot;MANTRA;OM
+Kucoin;spot;Router Protocol;ROUTE
+Kucoin;spot;Constellation;DAG
+Kucoin;spot;OriginTrail;TRAC
+Kucoin;spot;dAppstore;DAPPX
+Kucoin;spot;Masa;MASA
+Kucoin;spot;Aave;AAVE
+Kucoin;spot;XDC Network;XDC
+Kucoin;spot;Pomerium;PMG
+Kucoin;spot;Solidus Ai Tech;AITECH
+Kucoin;spot;Quant;QNT
+Kucoin;spot;Wen;WEN
+Kucoin;spot;Flux;FLUX
+Kucoin;spot;Energy Web Token;EWT
+Kucoin;spot;Amp;AMP
+Kucoin;spot;Immutable;IMX
+Kucoin;spot;Synthetix;SNX
+Kucoin;spot;Waves;WAVES
+Kucoin;spot;XPR Network;XPR
+Kucoin;spot;XANA;XETA
+Kucoin;spot;DeRace;DERC
+Kucoin;spot;Synternet;NOIA
+Kucoin;spot;ChainGPT;CGPT
+Kucoin;spot;Axie Infinity;AXS
+Kucoin;spot;Oraichain;ORAI
+Kucoin;spot;Degen;DEGEN
+Kucoin;spot;Terra;LUNA
+Kucoin;spot;Graphlinq Chain;GLQ
+Kucoin;spot;Playbux;PBUX
+Kucoin;spot;Partisia Blockchain;MPC
+Kucoin;spot;Pyth Network;PYTH
+Kucoin;spot;Ispolink;ISP
+Kucoin;spot;Curve DAO Token;CRV
+Kucoin;spot;Aleph.im;ALEPH
+Kucoin;spot;Memecoin;MEME
+Kucoin;spot;Arkham;ARKM
+Kucoin;spot;SATS (Ordinals);SATS
+Kucoin;spot;Alchemy Pay;ACH
+Kucoin;spot;IoTeX;IOTX
+Kucoin;spot;Metis;METIS
+Kucoin;spot;Chia;XCH
+Kucoin;spot;Phala Network;PHA
+Kucoin;spot;Foxy;FOXY
+Kucoin;spot;Nexera;NXRA
+Kucoin;spot;Blur;BLUR
+Kucoin;spot;Chiliz;CHZ
+Kucoin;spot;Kadena;KDA
+Kucoin;spot;Orion;ORN
+Kucoin;spot;World Mobile Token;WMT
+Kucoin;spot;DMAIL Network;DMAIL
+Kucoin;spot;Vulcan Forged (PYR);PYR
+Kucoin;spot;QORPO WORLD;QORPO
+Kucoin;spot;Polytrade;TRADE
+Kucoin;spot;Ocean Protocol;OCEAN
+Kucoin;spot;Zilliqa;ZIL
+Kucoin;spot;SPACE ID;ID
+Kucoin;spot;Sonorus;SNS
+Kucoin;spot;Pocket Network;POKT
+Kucoin;spot;SatoshiVM;SAVM
+Kucoin;spot;Ontology;ONT
+Kucoin;spot;Root Protocol;ISME
+Kucoin;spot;ShareToken;SHR
+Kucoin;spot;Entangle;KNGL
+Kucoin;spot;PancakeSwap;CAKE
+Kucoin;spot;hiFLUF;HIFLUF
+Kucoin;spot;MultiversX;EGLD
+Kucoin;spot;Pastel;PSL
+Kucoin;spot;Seascape Crowns;CWS
+Kucoin;spot;VAIOT;VAI
+Kucoin;spot;Centrifuge;CFG
+Kucoin;spot;Dfyn Network;DFYN
+MEXC;spot;Bitcoin;BTC
+MEXC;spot;Ethereum;ETH
+MEXC;spot;Solana;SOL
+MEXC;spot;MX TOKEN;MX
+MEXC;spot;Dogecoin;DOGE
+MEXC;spot;Sei;SEI
+MEXC;spot;XRP;XRP
+MEXC;spot;TRON;TRX
+MEXC;spot;USDC;USDC
+MEXC;spot;CatCoin;CATCOIN
+MEXC;spot;Arix;ARIX
+MEXC;spot;Arbitrum;ARB
+MEXC;spot;Pepe;PEPE
+MEXC;spot;Aptos;APT
+MEXC;spot;NEAR Protocol;NEAR
+MEXC;spot;Kaspa;KAS
+MEXC;spot;Bittensor;TAO
+MEXC;spot;Toncoin;TON
+MEXC;spot;Cardano;ADA
+MEXC;spot;Zeebu;ZBU
+MEXC;spot;Polygon;MATIC
+MEXC;spot;MEMETOON;MEMETOON
+MEXC;spot;Oraichain;ORAI
+MEXC;spot;Litecoin;LTC
+MEXC;spot;Avalanche;AVAX
+MEXC;spot;dogwifhat;WIF
+MEXC;spot;ether.fi;ETHFI
+MEXC;spot;Chainlink;LINK
+MEXC;spot;Dragonball Z Tribute;DBZ
+MEXC;spot;Realio Network;RIO
+MEXC;spot;Popcat (SOL);POPCAT
+MEXC;spot;Clore.ai;CLORE
+MEXC;spot;Renzo;REZ
+MEXC;spot;Vita Inu;VINU
+MEXC;spot;Zetrix;ZETRIX
+MEXC;spot;Optimism;OP
+MEXC;spot;Ultima;ULTIMA
+MEXC;spot;BNB;BNB
+MEXC;spot;FLOKI;FLOKI
+MEXC;spot;BlackCardCoin;BCCOIN
+MEXC;spot;VinuChain;VC
+MEXC;spot;Ondo;ONDO
+MEXC;spot;Monero;XMR
+MEXC;spot;Orange;ORNJ
+MEXC;spot;Grok;GROK
+MEXC;spot;Crypto Hunters Coin;CRH
+MEXC;spot;Chainge;XCHNG
+MEXC;spot;NADA Protocol Token;NADA
+MEXC;spot;SaucerSwap;SAUCE
+MEXC;spot;Fantom;FTM
+MEXC;spot;Bonk;BONK
+MEXC;spot;Shiba Inu;SHIB
+MEXC;spot;Velo;VELO
+MEXC;spot;Serenity Shield;SERSH
+MEXC;spot;Polkadot;DOT
+MEXC;spot;Core;CORE
+MEXC;spot;LUCA;LUCA
+MEXC;spot;MANEKI;MANEKI
+MEXC;spot;ROGin AI;ROG
+MEXC;spot;Render;RNDR
+MEXC;spot;Cosmos;ATOM
+MEXC;spot;JasmyCoin;JASMY
+MEXC;spot;Ethena;ENA
+MEXC;spot;Fasttoken;FTN
+MEXC;spot;Ordiswap;ORDS
+MEXC;spot;All Street Bets;BETS
+MEXC;spot;Wormhole;W
+MEXC;spot;Alephium;ALPH
+MEXC;spot;Telos;TLOS
+MEXC;spot;Shido [New];SHIDO
+MEXC;spot;Chickencoin;CHKN
+MEXC;spot;Orchai;OCH
+MEXC;spot;Fetch.ai;FET
+MEXC;spot;UpOnly;UPO
+MEXC;spot;Nirvana;VANA
+MEXC;spot;Rug World Assets;RWA
+MEXC;spot;Blendr Network;BLENDR
+MEXC;spot;SLERF;SLERF
+MEXC;spot;Aleph Zero;AZERO
+MEXC;spot;tomiNet;TOMI
+MEXC;spot;Solidus Ai Tech;AITECH
+MEXC;spot;Greever;GVL
+MEXC;spot;Stacks;STX
+MEXC;spot;Dione Protocol;DIONE
+MEXC;spot;Celo;CELO
+MEXC;spot;cat in a dogs world;MEW
+MEXC;spot;Bone ShibaSwap;BONE
+MEXC;spot;Ontology Gas;ONG
+MEXC;spot;Internet Computer;ICP
+MEXC;spot;PIBBLE;PIB
+MEXC;spot;Creo Engine;CREO
+MEXC;spot;Choise.com;CHO
+MEXC;spot;Gomining;GMT
+MEXC;spot;Worldcoin;WLD
+MEXC;spot;Hedera;HBAR
+MEXC;spot;META PLUS TOKEN;MTS
+MEXC;spot;Push Protocol;PUSH
+MEXC;spot;Injective;INJ
+MEXC;spot;Constellation;DAG
+MEXC;spot;HyperGPT;HGPT
+MEXC;spot;Manta Network;MANTA
+MEXC;spot;Multibit;MUBI
+MEXC;spot;cLFi;CLFI
+MEXC;spot;BOOK OF MEME;BOME
+MEXC;spot;0x Protocol;ZRX
+MEXC;spot;Arweave;AR
+MEXC;spot;VoluMint;VMINT
+MEXC;spot;FUD;FUD
+MEXC;spot;Forward Protocol;FORWARD
+MEXC;spot;TRAVA.FINANCE;TRAVA
+MEXC;spot;Dynex;DNX
+MEXC;spot;Radix;XRD
+MEXC;spot;Trias Token (New);TRIAS
+MEXC;spot;Myro;MYRO
+MEXC;spot;Sui;SUI
+MEXC;spot;Starknet;STRK
+MEXC;spot;LandX Finance;LNDX
+MEXC;spot;Charged Particles;IONX
+MEXC;spot;Ponke;PONKE
+MEXC;spot;PLANET;PLANET
+MEXC;spot;Tune.FM;JAM
+MEXC;spot;Zignaly;ZIG
+MEXC;spot;DOGEMOB;DOGEMOB
+MEXC;spot;StoryFire;BLAZE
+MEXC;spot;Altura;ALU
+MEXC;spot;Crypto Asset Governance Alliance;CAGA
+MEXC;spot;Tectum;TET
+MEXC;spot;Steem;STEEM
+MEXC;spot;Nakamoto Games;NAKA
+MEXC;spot;ZetaChain;ZETA
+MEXC;spot;Arkham;ARKM
+MEXC;spot;GG MetaGame;GGMT
+MEXC;spot;DeFinder Capital;DFC
+MEXC;spot;Tokenize Xchange;TKX
+MEXC;spot;PaLM AI;PALMAI
+MEXC;spot;Ben the Dog;BENDOG
+MEXC;spot;Propbase;PROPS
+MEXC;spot;Jupiter;JUP
+MEXC;spot;Catman;CATMAN
+MEXC;spot;Entangle;MNGL
+MEXC;spot;Apu Apustaja;APU
+MEXC;spot;UBXS Token;UBXS
+MEXC;spot;Verasity;VRA
+MEXC;spot;Token IN;TIN
+MEXC;spot;MicroVisionChain;SPACE
+MEXC;spot;Omni Network;OMNI
+MEXC;spot;GTA Token;GTA
+MEXC;spot;AIPAD;AIPAD
+MEXC;spot;Celsius;CEL
+MEXC;spot;Propchain;PROPC
+MEXC;spot;Welshcorgicoin;WELSH
+MEXC;spot;Scotty Beam;SCOTTY
+MEXC;spot;Seamans Token;SEAT
+MEXC;spot;The Graph;GRT
+MEXC;spot;SingularityNET;AGIX
+MEXC;spot;Wen;WEN
+MEXC;spot;PepeCoin;PEPECOIN
+MEXC;spot;MetaDOS;SECOND
+MEXC;spot;LayerAI;LAI
+MEXC;spot;FTX Token;FTT
+MEXC;spot;FOMO BULL CLUB;FOMO
+MEXC;spot;Shadow Node;SVPN
+MEXC;spot;Catboy;CATBOY
+MEXC;spot;Playbux;PBUX
+MEXC;spot;TABOO TOKEN;TABOO
+MEXC;spot;Bowled.io;BWLD
+MEXC;spot;Gamer Arena;GAU
+MEXC;spot;MCOIN;MCOIN
+MEXC;spot;GUMMY;GUMMY
+MEXC;spot;Meson Network;MSN
+MEXC;spot;Pendle;PENDLE
+MEXC;spot;K9 Finance;KNINE
+MEXC;spot;Doge Eat Doge;OMNOM
+MEXC;spot;Areon Network;AREA
+MEXC;spot;5ire;5IRE
+MEXC;spot;QORPO WORLD;QORPO
+MEXC;spot;ATOR Protocol;ATOR
+MEXC;spot;MCNCOIN;MCN
+MEXC;spot;Nervos Network;CKB
+MEXC;spot;Peng;PENG
+MEXC;spot;JetTon Games;JETTON
+MEXC;spot;Pixels;PIXEL
+MEXC;spot;XDC Network;XDC
+MEXC;spot;Stellar;XLM
+MEXC;spot;Seedify.fund;SFUND
+MEXC;spot;ZAIBOT;ZAI
+MEXC;spot;Baby Doge Coin;BABYDOGE
+MEXC;spot;GamerCoin;GHX
+MEXC;spot;AIgentX;AIGENTX
+MEXC;spot;Waves;WAVES
+MEXC;spot;LIF3;LIF3
+MEXC;spot;BlackFort Exchange Network;BXN
+MEXC;spot;Work X;WORK
+MEXC;spot;BRN Metaverse;BRN
+MEXC;spot;Astar;ASTR
+MEXC;spot;Spectra Chain;SPCT
+MEXC;spot;Shentu;CTK
+MEXC;spot;Bad Idea AI;BAD
+MEXC;spot;Artrade;ATR
+MEXC;spot;BOBO;BOBO
+OKX;spot;Bitcoin;BTC
+OKX;spot;Ethereum;ETH
+OKX;spot;Solana;SOL
+OKX;spot;Pepe;PEPE
+OKX;spot;Dogecoin;DOGE
+OKX;spot;Toncoin;TON
+OKX;spot;Optimism;OP
+OKX;spot;ORDI;ORDI
+OKX;spot;XRP;XRP
+OKX;spot;Shiba Inu;SHIB
+OKX;spot;USDC;USDC
+OKX;spot;Filecoin;FIL
+OKX;spot;Velo;VELO
+OKX;spot;Sui;SUI
+OKX;spot;Wormhole;W
+OKX;spot;Litecoin;LTC
+OKX;spot;Core;CORE
+OKX;spot;Polkadot;DOT
+OKX;spot;NEAR Protocol;NEAR
+OKX;spot;ether.fi;ETHFI
+OKX;spot;Bitcoin Cash;BCH
+OKX;spot;BNB;BNB
+OKX;spot;Worldcoin;WLD
+OKX;spot;Arbitrum;ARB
+OKX;spot;Hedera;HBAR
+OKX;spot;Merlin Chain;MERL
+OKX;spot;Avalanche;AVAX
+OKX;spot;Starknet;STRK
+OKX;spot;Cosmos;ATOM
+OKX;spot;Ethereum Classic;ETC
+OKX;spot;Chiliz;CHZ
+OKX;spot;ZetaChain;ZETA
+OKX;spot;Aptos;APT
+OKX;spot;Stacks;STX
+OKX;spot;Cardano;ADA
+OKX;spot;Arweave;AR
+OKX;spot;EOS;EOS
+OKX;spot;Jupiter;JUP
+OKX;spot;Bonk;BONK
+OKX;spot;SATS (Ordinals);SATS
+OKX;spot;Gala;GALA
+OKX;spot;Meson Network;MSN
+OKX;spot;Jito;JTO
+OKX;spot;Lido Staked ETH;stETH
+OKX;spot;Polygon;MATIC
+OKX;spot;Pyth Network;PYTH
+OKX;spot;RSIC•GENESIS•RUNE;RUNECOIN
+OKX;spot;Chainlink;LINK
+OKX;spot;Render;RNDR
+OKX;spot;Celsius;CEL
+OKX;spot;ssv.network;SSV
+OKX;spot;Internet Computer;ICP
+OKX;spot;Conflux;CFX
+OKX;spot;dYdX (Native);DYDX
+OKX;spot;Uniswap;UNI
+OKX;spot;Fantom;FTM
+OKX;spot;Bitcoin SV;BSV
+OKX;spot;Flow;FLOW
+OKX;spot;Neo;NEO
+OKX;spot;Blur;BLUR
+OKX;spot;cat in a dogs world;MEW
+OKX;spot;Yield Guild Games;YGG
+OKX;spot;TRON;TRX
+OKX;spot;Celestia;TIA
+OKX;spot;Big Time;BIGTIME
+OKX;spot;Algorand;ALGO
+OKX;spot;Frontier;FRONT
+OKX;spot;Polyhedra Network;ZK
+OKX;spot;FLOKI;FLOKI
+OKX;spot;Lido DAO;LDO
+OKX;spot;SingularityNET;AGIX
+OKX;spot;Tensor;TNSR
+OKX;spot;Aevo;AEVO
+OKX;spot;1inch Network;1INCH
+OKX;spot;Memecoin;MEME
+OKX;spot;Chia;XCH
+OKX;spot;ArbDoge AI;AIDOGE
+OKX;spot;QnA3.AI;GPT
+OKX;spot;Fetch.ai;FET
+OKX;spot;Terra;LUNA
+OKX;spot;Mask Network;MASK
+OKX;spot;ApeCoin;APE
+OKX;spot;OKB;OKB
+OKX;spot;Tellor;TRB
+OKX;spot;Astar;ASTR
+OKX;spot;Curve DAO Token;CRV
+OKX;spot;Zeus Network;ZEUS
+OKX;spot;SushiSwap;SUSHI
+OKX;spot;ConstitutionDAO;PEOPLE
+OKX;spot;The Graph;GRT
+OKX;spot;Stellar;XLM
+OKX;spot;GMT;GMT
+OKX;spot;Flare;FLR
+OKX;spot;Theta Network;THETA
+OKX;spot;Injective;INJ
+OKX;spot;Bone ShibaSwap;BONE
+OKX;spot;Immutable;IMX
+OKX;spot;Cronos;CRO
+OKX;spot;Ethereum Name Service;ENS
+OKX;spot;Decentraland;MANA
+OKX;spot;The Sandbox;SAND
+OKX;spot;Ontology;ONT
+OKX;spot;Cetus Protocol;CETUS
+OKX;spot;Aave;AAVE
+OKX;spot;Metis;METIS
+OKX;spot;Treasure;MAGIC
+OKX;spot;Mina;MINA
+OKX;spot;EthereumPoW;ETHW
+OKX;spot;Klaytn;KLAY
+OKX;spot;MANTRA;OM
+OKX;spot;Axie Infinity;AXS
+OKX;spot;Alchemy Pay;ACH
+OKX;spot;Realio Network;RIO
+OKX;spot;Tether USDt;USDT
+OKX;spot;TerraClassicUSD;USTC
+OKX;spot;Verasity;VRA
+OKX;spot;Celo;CELO
+OKX;spot;Synthetix;SNX
+OKX;spot;Loopring;LRC
+OKX;spot;Parcl;PRCL
+OKX;spot;BitTorrent (New);BTT
+OKX;spot;Ravencoin;RVN
+OKX;spot;Casper;CSPR
+OKX;spot;Foxy;FOXY
+OKX;spot;Venom;VENOM
+OKX;spot;Raydium;RAY
+OKX;spot;Safe;SAFE
+OKX;spot;Zebec Network;ZBCN
+OKX;spot;Creditcoin;CTC
+OKX;spot;Livepeer;LPT
+OKX;spot;SPACE ID;ID
+OKX;spot;Qtum;QTUM
+OKX;spot;Reserve Rights;RSR
+OKX;spot;Tezos;XTZ
+OKX;spot;Terra Classic;LUNC
+OKX;spot;Civic;CVC
+OKX;spot;Radiant Capital;RDNT
+OKX;spot;Biconomy;BICO
+OKX;spot;Fusionist;ACE
+OKX;spot;DMAIL Network;DMAIL
+OKX;spot;Zilliqa;ZIL
+OKX;spot;Storj;STORJ
+OKX;spot;Maker;MKR
+OKX;spot;Galxe;GAL
+OKX;spot;0x Protocol;ZRX
+OKX;spot;Liquity;LQTY
+OKX;spot;Ronin;RON
+OKX;spot;LooksRare;LOOKS
+OKX;spot;Guild of Guardians;GOG
+OKX;spot;Perpetual Protocol;PERP
+OKX;spot;Threshold;T
+OKX;spot;Velodrome Finance;VELODROME
+OKX;spot;Gari Network;GARI
+OKX;spot;Wrapped Bitcoin;WBTC
+OKX;spot;OMG Network;OMG
+OKX;spot;IOTA;IOTA
+OKX;spot;JUST;JST
+OKX;spot;Kusama;KSM
+OKX;spot;Enjin Coin;ENJ
+OKX;spot;BlockGames;BLOCK
+OKX;spot;Bounce Token;AUCTION
+OKX;spot;UMA;UMA
+OKX;spot;API3;API3
+OKX;spot;Samoyedcoin;SAMO
+OKX;spot;aelf;ELF
+OKX;spot;Golem;GLM
+OKX;spot;MultiversX;EGLD
+OKX;spot;Siacoin;SC
+OKX;spot;Dai;DAI
+OKX;spot;Gas;GAS
+OKX;spot;yearn.finance;YFI
+OKX;spot;GMX;GMX
+OKX;spot;WOO;WOO
+OKX;spot;Orbs;ORBS
+OKX;spot;Adventure Gold;AGLD
+OKX;spot;Aragon;ANT
+OKX;spot;IOST;IOST
+OKX;spot;RACA;RACA
+OKX;spot;Step App;FITFI
+OKX;spot;RSS3;RSS3
+OKX;spot;Ren;REN
+OKX;spot;Badger DAO;BADGER
+OKX;spot;OKT Chain;OKT
+OKX;spot;Compound;COMP
+OKX;spot;Starlink;STARL
+OKX;spot;Kishu Inu;KISHU
+OKX;spot;Crypto Gladiator Shards;CGL
+OKX;spot;Oasys;OAS
+OKX;spot;Baby Doge Coin;BABYDOGE
+OKX;spot;Ice Open Network;ICE
+OKX;spot;Kadena;KDA
+OKX;spot;Lingose;LING
+OKX;spot;Eminer;EM
+OKX;spot;Turbo;TURBO
+OKX;spot;ICON;ICX
+OKX;spot;APENFT;NFT
+OKX;spot;MOVEZ;MOVEZ
+OKX;spot;Centrifuge;CFG
+OKX;spot;LinkEye;LET
+OKX;spot;Gearbox Protocol;GEAR
+Tokocrypto;spot;Tether USDt;USDT
+Tokocrypto;spot;Bitcoin;BTC
+Tokocrypto;spot;Pepe;PEPE
+Tokocrypto;spot;Solana;SOL
+Tokocrypto;spot;Ethereum;ETH
+Tokocrypto;spot;Ethena;ENA
+Tokocrypto;spot;Manta Network;MANTA
+Tokocrypto;spot;Bonk;BONK
+Tokocrypto;spot;Gala;GALA
+Tokocrypto;spot;BIDR;BIDR
+Tokocrypto;spot;Shiba Inu;SHIB
+Tokocrypto;spot;Hedera;HBAR
+Tokocrypto;spot;XRP;XRP
+Tokocrypto;spot;Render;RNDR
+Tokocrypto;spot;dogwifhat;WIF
+Tokocrypto;spot;BOOK OF MEME;BOME
+Tokocrypto;spot;Contentos;COS
+Tokocrypto;spot;Dogecoin;DOGE
+Tokocrypto;spot;Vanar Chain;VANRY
+Tokocrypto;spot;Voyager Token;VGX
+Tokocrypto;spot;THORChain;RUNE
+Tokocrypto;spot;FLOKI;FLOKI
+Tokocrypto;spot;Ontology Gas;ONG
+Tokocrypto;spot;ether.fi;ETHFI
+Tokocrypto;spot;Creo Engine;CREO
+Tokocrypto;spot;BNB;BNB
+Tokocrypto;spot;Wormhole;W
+Tokocrypto;spot;NEAR Protocol;NEAR
+Tokocrypto;spot;Toko Token;TKO
+Tokocrypto;spot;Quant;QNT
+Tokocrypto;spot;Automata Network;ATA
+Tokocrypto;spot;Terra Classic;LUNC
+Tokocrypto;spot;LeverFi;LEVER
+Tokocrypto;spot;Fetch.ai;FET
+Tokocrypto;spot;Polygon;MATIC
+Tokocrypto;spot;Optimism;OP
+Tokocrypto;spot;Frontier;FRONT
+Tokocrypto;spot;Tensor;TNSR
+Tokocrypto;spot;Portal;PORTAL
+Tokocrypto;spot;Starknet;STRK
+Tokocrypto;spot;Cardano;ADA
+Tokocrypto;spot;GMT;GMT
+Tokocrypto;spot;Arbitrum;ARB
+Tokocrypto;spot;Pendle;PENDLE
+Tokocrypto;spot;Aevo;AEVO
+Tokocrypto;spot;Amp;AMP
+Tokocrypto;spot;Velo;VELO
+Tokocrypto;spot;Nervos Network;CKB
+Tokocrypto;spot;Galxe;GAL
+Tokocrypto;spot;Internet Computer;ICP
+Tokocrypto;spot;Altlayer;ALT
+Tokocrypto;spot;SATS;1000SATS
+Tokocrypto;spot;Jupiter;JUP
+Tokocrypto;spot;Golem;GLM
+Tokocrypto;spot;Moonriver;MOVR
+Tokocrypto;spot;Chainlink;LINK
+Tokocrypto;spot;Cosmos;ATOM
+Tokocrypto;spot;COMBO;COMBO
+Tokocrypto;spot;Unifi Protocol DAO;UNFI
+Tokocrypto;spot;ORDI;ORDI
+Tokocrypto;spot;Worldcoin;WLD
+Tokocrypto;spot;Jito;JTO
+Tokocrypto;spot;REI Network;REI
+Tokocrypto;spot;Polymesh;POLYX
+Tokocrypto;spot;Polkadot;DOT
+Tokocrypto;spot;Arweave;AR
+Tokocrypto;spot;Avalanche;AVAX
+Tokocrypto;spot;TRON;TRX
+Tokocrypto;spot;Bitcoin Cash;BCH
+Tokocrypto;spot;Aave;AAVE
+Tokocrypto;spot;eCash;XEC
+Tokocrypto;spot;Fantom;FTM
+Tokocrypto;spot;Celestia;TIA
+Tokocrypto;spot;Beam;BEAMX
+Tokocrypto;spot;MANTRA;OM
+Tokocrypto;spot;Bittensor;TAO
+Tokocrypto;spot;Cream Finance;CREAM
+Tokocrypto;spot;Stacks;STX
+Tokocrypto;spot;Tellor;TRB
+Tokocrypto;spot;Kadena;KDA
+Tokocrypto;spot;Zilliqa;ZIL
+Tokocrypto;spot;ConstitutionDAO;PEOPLE
+Tokocrypto;spot;Harvest Finance;FARM
+Tokocrypto;spot;Pixels;PIXEL
+Tokocrypto;spot;Holo;HOT
+Tokocrypto;spot;Saga;SAGA
+Tokocrypto;spot;Lido DAO;LDO
+Tokocrypto;spot;Sei;SEI
+Tokocrypto;spot;Synthetix;SNX
+Tokocrypto;spot;TerraClassicUSD;USTC
+Tokocrypto;spot;Chromia;CHR
+Tokocrypto;spot;The Graph;GRT
+Tokocrypto;spot;PancakeSwap;CAKE
+Tokocrypto;spot;Immutable;IMX
+Tokocrypto;spot;Axie Infinity;AXS
+Tokocrypto;spot;Yield Guild Games;YGG
+Tokocrypto;spot;Stratis [New];STRAX
+Tokocrypto;spot;Sui;SUI
+Tokocrypto;spot;Omni Network;OMNI
+Tokocrypto;spot;Memecoin;MEME
+Tokocrypto;spot;Blur;BLUR
+Tokocrypto;spot;Verge;XVG
+Tokocrypto;spot;Litecoin;LTC
+Tokocrypto;spot;Injective;INJ
+Tokocrypto;spot;BinaryX;BNX
+Tokocrypto;spot;Raydium;RAY
+Tokocrypto;spot;Smooth Love Potion;SLP
+Tokocrypto;spot;TrueFi;TRU
+Tokocrypto;spot;JasmyCoin;JASMY
+Tokocrypto;spot;Reserve Rights;RSR
+Tokocrypto;spot;Sun (New);SUN
+Tokocrypto;spot;MyNeighborAlice;ALICE
+Tokocrypto;spot;Highstreet;HIGH
+Tokocrypto;spot;PAX Gold;PAXG
+Tokocrypto;spot;Trust Wallet Token;TWT
+Tokocrypto;spot;Dymension;DYM
+Tokocrypto;spot;Aergo;AERGO
+Tokocrypto;spot;Phala Network;PHA
+Tokocrypto;spot;Waves;WAVES
+Tokocrypto;spot;Aavegotchi;GHST
+Tokocrypto;spot;Ankr;ANKR
+Tokocrypto;spot;SingularityNET;AGIX
+Tokocrypto;spot;Shentu;CTK
+Tokocrypto;spot;IOST;IOST
+Tokocrypto;spot;UMA;UMA
+Tokocrypto;spot;Moonbeam;GLMR
+Tokocrypto;spot;The Sandbox;SAND
+Tokocrypto;spot;Gas;GAS
+Tokocrypto;spot;ApeCoin;APE
+Tokocrypto;spot;Neo;NEO
+Tokocrypto;spot;SKALE;SKL
+Tokocrypto;spot;Pyth Network;PYTH
+Tokocrypto;spot;Flow;FLOW
+Tokocrypto;spot;Chiliz;CHZ
+Tokocrypto;spot;WOO;WOO
+Tokocrypto;spot;Wing Finance;WING
+Tokocrypto;spot;Arkham;ARKM
+Tokocrypto;spot;Mines of Dalarnia;DAR
+Tokocrypto;spot;Conflux;CFX
+Tokocrypto;spot;Akropolis;AKRO
+Tokocrypto;spot;Axelar;AXL
+Tokocrypto;spot;Ontology;ONT
+Tokocrypto;spot;SPACE ID;ID
+Tokocrypto;spot;Lisk;LSK
+Tokocrypto;spot;Orion;ORN
+Tokocrypto;spot;Maker;MKR
+Tokocrypto;spot;NULS;NULS
+Tokocrypto;spot;Theta Network;THETA
+Tokocrypto;spot;Curve DAO Token;CRV
+Tokocrypto;spot;Ocean Protocol;OCEAN
+Tokocrypto;spot;AVA;AVA
+Tokocrypto;spot;dYdX (ethDYDX);DYDX
+Tokocrypto;spot;aelf;ELF
+Tokocrypto;spot;Algorand;ALGO
+Tokocrypto;spot;Bella Protocol;BEL
+Tokocrypto;spot;Ravencoin;RVN
+Tokocrypto;spot;LTO Network;LTO
+Tokocrypto;spot;Threshold;T
+Tokocrypto;spot;Oasis;ROSE
+Tokocrypto;spot;Biswap;BSW
+Tokocrypto;spot;SafePal;SFP
+Tokocrypto;spot;Aptos;APT
+Tokocrypto;spot;Horizen;ZEN
+Tokocrypto;spot;Stellar;XLM
+Tokocrypto;spot;Livepeer;LPT
+Tokocrypto;spot;Dusk;DUSK
+Tokocrypto;spot;Sleepless AI;AI
+Tokocrypto;spot;Decentraland;MANA
+Tokocrypto;spot;VeChain;VET
+Tokocrypto;spot;Celo;CELO
+Tokocrypto;spot;Enzyme;MLN
+Tokocrypto;spot;Uniswap;UNI
+Tokocrypto;spot;AS Roma Fan Token;ASR
+Tokocrypto;spot;Alpaca Finance;ALPACA
+Tokocrypto;spot;Bounce Token;AUCTION
+Tokocrypto;spot;MultiversX;EGLD
+Tokocrypto;spot;SuperVerse;SUPER
+Tokocrypto;spot;VITE;VITE
+Tokocrypto;spot;Paris Saint-Germain Fan Token;PSG
+Tokocrypto;spot;NanoByte Token;NBT
+Tokocrypto;spot;Theta Fuel;TFUEL
+Tokocrypto;spot;WINkLink;WIN
+Tokocrypto;spot;Illuvium;ILV
+Tokocrypto;spot;Ethereum Classic;ETC
+Tokocrypto;spot;Hifi Finance;HIFI
+Tokocrypto;spot;SushiSwap;SUSHI
+Tokocrypto;spot;Rocket Pool;RPL
+Tokocrypto;spot;Kava;KAVA
+Tokocrypto;spot;COTI;COTI
+Tokocrypto;spot;Flux;FLUX
+Tokocrypto;spot;Stella;ALPHA
+Tokocrypto;spot;Astar;ASTR
+Tokocrypto;spot;CyberConnect;CYBER
+Tokocrypto;spot;Cartesi;CTSI
+Tokocrypto;spot;Firo;FIRO
+Tokocrypto;spot;League of Kingdoms Arena;LOKA
+Tokocrypto;spot;Acala Token;ACA
+Tokocrypto;spot;IoTeX;IOTX
+Tokocrypto;spot;Vulcan Forged (PYR);PYR
+Tokocrypto;spot;Decred;DCR
+Upbit;spot;Bitcoin;BTC
+Upbit;spot;Shiba Inu;SHIB
+Upbit;spot;XRP;XRP
+Upbit;spot;Ethereum;ETH
+Upbit;spot;Solana;SOL
+Upbit;spot;Dogecoin;DOGE
+Upbit;spot;Stacks;STX
+Upbit;spot;Steem;STEEM
+Upbit;spot;Sei;SEI
+Upbit;spot;Neo;NEO
+Upbit;spot;NEAR Protocol;NEAR
+Upbit;spot;Metal DAO;MTL
+Upbit;spot;Hedera;HBAR
+Upbit;spot;Ethereum Classic;ETC
+Upbit;spot;Ontology;ONT
+Upbit;spot;Ontology Gas;ONG
+Upbit;spot;Golem;GLM
+Upbit;spot;Pundi X (New);PUNDIX
+Upbit;spot;Civic;CVC
+Upbit;spot;Bitcoin Cash;BCH
+Upbit;spot;Steem Dollars;SBD
+Upbit;spot;Lisk;LSK
+Upbit;spot;Polymesh;POLYX
+Upbit;spot;Waves;WAVES
+Upbit;spot;Avalanche;AVAX
+Upbit;spot;Blur;BLUR
+Upbit;spot;Cardano;ADA
+Upbit;spot;TRON;TRX
+Upbit;spot;Pyth Network;PYTH
+Upbit;spot;The Graph;GRT
+Upbit;spot;eCash;XEC
+Upbit;spot;SPACE ID;ID
+Upbit;spot;Arbitrum;ARB
+Upbit;spot;Astar;ASTR
+Upbit;spot;Aptos;APT
+Upbit;spot;Bitcoin Gold;BTG
+Upbit;spot;Theta Fuel;TFUEL
+Upbit;spot;EOS;EOS
+Upbit;spot;Threshold;T
+Upbit;spot;Polygon;MATIC
+Upbit;spot;Flow;FLOW
+Upbit;spot;Sui;SUI
+Upbit;spot;MiL.k;MLK
+Upbit;spot;Chiliz;CHZ
+Upbit;spot;Polkadot;DOT
+Upbit;spot;VeChain;VET
+Upbit;spot;Ankr;ANKR
+Upbit;spot;Siacoin;SC
+Upbit;spot;The Sandbox;SAND
+Upbit;spot;Gas;GAS
+Upbit;spot;Bitcoin SV;BSV
+Upbit;spot;Chainlink;LINK
+Upbit;spot;Creditcoin;CTC
+Upbit;spot;Qtum;QTUM
+Upbit;spot;Algorand;ALGO
+Upbit;spot;Axie Infinity;AXS
+Upbit;spot;IQ;IQ
+Upbit;spot;GMT;GMT
+Upbit;spot;Cosmos;ATOM
+Upbit;spot;Theta Network;THETA
+Upbit;spot;Hifi Finance;HIFI
+Upbit;spot;0x Protocol;ZRX
+Upbit;spot;1inch Network;1INCH
+Upbit;spot;Powerledger;POWR
+Upbit;spot;Loom Network;LOOM
+Upbit;spot;Mask Network;MASK
+Upbit;spot;Orbs;ORBS
+Upbit;spot;aelf;ELF
+Upbit;spot;Stellar;XLM
+Upbit;spot;StormX;STMX
+Upbit;spot;Mina;MINA
+Upbit;spot;BORA;BORA
+Upbit;spot;Storj;STORJ
+Upbit;spot;Celo;CELO
+Upbit;spot;WAX;WAXP
+Upbit;spot;IOTA;IOTA
+Upbit;spot;MVL;MVL
+Upbit;spot;Kava;KAVA
+Upbit;spot;Metadium;META
+Upbit;spot;Zilliqa;ZIL
+Upbit;spot;Hunt Town;HUNT
+Upbit;spot;Ark;ARK
+Upbit;spot;Aergo;AERGO
+Upbit;spot;Immutable;IMX
+Upbit;spot;Solar;SXP
+Upbit;spot;Stratis [New];STRAX
+Upbit;spot;Cronos;CRO
+Upbit;spot;Strike;STRIKE
+Upbit;spot;ICON;ICX
+Upbit;spot;Decentraland;MANA
+Upbit;spot;FirmaChain;FCT2
+Upbit;spot;MovieBloc;MBL
+Upbit;spot;Hive Dollar;HBD
+Upbit;spot;Filecoin;FIL
+Upbit;spot;MediBloc;MED
+Upbit;spot;IOST;IOST
+Upbit;spot;dKargo;DKA
+Upbit;spot;Aave;AAVE
+Upbit;spot;ThunderCore;TT
+Upbit;spot;MultiversX;EGLD
+Upbit;spot;Ardor;ARDR
+Upbit;spot;Tokamak Network;TON
+Upbit;spot;Sentinel Protocol;UPP
+Upbit;spot;NEM;XEM
+Upbit;spot;Ravencoin;RVN
+Upbit;spot;Groestlcoin;GRS
+Upbit;spot;QuarkChain;QKC
+Upbit;spot;Basic Attention Token;BAT
+Upbit;spot;Carry;CRE
+Upbit;spot;Kyber Network Crystal v2;KNC
+Upbit;spot;STP;STPT
+Upbit;spot;Status;SNT
+Upbit;spot;Moss Coin;MOC
+Upbit;spot;Hive;HIVE
+Upbit;spot;AhaToken;AHT
+Upbit;spot;Alpha Quark Token;AQT
+Upbit;spot;Axelar;AXL
+Upbit;spot;JUST;JST
+Upbit;spot;Hippocrat;HPO
+Upbit;spot;Tezos;XTZ
+Upbit;spot;Cobak Token;CBK
+Upbit;spot;Paris Saint-Germain Fan Token;PSG
+Upbit;spot;Bifrost;BFC
+Upbit;spot;Yield Guild Games;YGG
+Upbit;spot;Galxe;GAL
+Upbit;spot;Inter Milan Fan Token;INTER
+Upbit;spot;Pocket Network;POKT
+Upbit;spot;Ethereum Name Service;ENS
+Upbit;spot;ONBUFF;ONIT
+Upbit;spot;Render;RNDR
+Upbit;spot;Pax Dollar;USDP
+Upbit;spot;Big Time;BIGTIME
+Upbit;spot;REI Network;REI
+Upbit;spot;Ocean Protocol;OCEAN
+Upbit;spot;Function X;FX
+Upbit;spot;CyberConnect;CYBER
+Upbit;spot;Numeraire;NMR
+Upbit;spot;Livepeer;LPT
+Upbit;spot;Rally;RLY
+Upbit;spot;Gitcoin;GTC
+Upbit;spot;Orchid;OXT
+Upbit;spot;Reserve Rights;RSR
+Upbit;spot;Prom;PROM
+Upbit;spot;Maker;MKR
+Upbit;spot;ForTube;FOR
+Upbit;spot;SOLVE;SOLVE
+Upbit;spot;district0x;DNT
+Upbit;spot;Bounce Token;AUCTION
+Upbit;spot;Injective;INJ
+Upbit;spot;Adventure Gold;AGLD
+Upbit;spot;IoTeX;IOTX
+Upbit;spot;Raydium;RAY
+Upbit;spot;Synthetix;SNX
+Upbit;spot;ApeCoin;APE
+Upbit;spot;Uniswap;UNI
+Upbit;spot;Curve DAO Token;CRV
+Upbit;spot;Treasure;MAGIC
+Upbit;spot;Moonbeam;GLMR
+Upbit;spot;DAD;DAD
+Upbit;spot;Audius;AUDIO
+Upbit;spot;Validity;VAL
+Upbit;spot;TrueUSD;TUSD
+Upbit;spot;ARPA;ARPA
+Upbit;spot;Arsenal Fan Token;AFC
+Upbit;spot;NKN;NKN
+Upbit;spot;Origin Protocol;OGN
+Upbit;spot;DigiByte;DGB
+Upbit;spot;Bancor;BNT
+Upbit;spot;Loopring;LRC
+Upbit;spot;iExec RLC;RLC
+Upbit;spot;API3;API3
+Upbit;spot;Chromia;CHR
+Upbit;spot;Dent;DENT
+Upbit;spot;Napoli Fan Token;NAP
+Upbit;spot;Sun (New);SUN
+Upbit;spot;Cartesi;CTSI
+Upbit;spot;Atletico De Madrid Fan Token;ATM
+Upbit;spot;Enjin Coin;ENJ
+Upbit;spot;Compound;COMP
+Upbit;spot;Access Protocol;ACS
+Upbit;spot;GoChain;GO
+Upbit;spot;Dai;DAI
+Upbit;spot;Manchester City Fan Token;CITY
+Upbit;spot;FC Barcelona Fan Token;BAR
+Upbit;spot;Radworks;RAD
+Upbit;spot;Mantle;MNT
+Upbit;spot;Quiztok;QTCON
+Upbit;spot;Juventus Fan Token;JUV
+Upbit;spot;Observer;OBSR
+Upbit;spot;AC Milan Fan Token;ACM
+Upbit;spot;Akash Network;AKT
